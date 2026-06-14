@@ -1,0 +1,13 @@
+{
+  "name": "1000 Soruda İlahi Nizam ve Kâinat",
+  "short_name": "INK 1000",
+  "description": "INK - 1000 Soru & Cevap, Kavramlar Sözlüğü, Pratik Uygulama",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#303034",
+  "theme_color": "#303034",
+  "icons": [
+    {"src": "/icon-192.png", "sizes": "192x192", "type": "image/png"},
+    {"src": "/icon-512.png", "sizes": "512x512", "type": "image/png"}
+  ]
+}
