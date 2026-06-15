@@ -3,301 +3,401 @@
     "no": 1,
     "kat": "KİTAP VE KAYNAK",
     "soru": "\"İlahi Nizam ve Kâinat\" adlı kitap nedir?",
-    "cevap": "İlahi Nizam ve Kâinat, 1959 yılında olağandışı bir yöntemle ortaya çıkmış, madde, ruh, kâinat ve insanın varoluşunu tek bir tutarlı sistem içinde açıklayan bir bilgi kitabıdır. Dinlerin, felsefenin ve bilimin ayrı ayrı yanıt aradığı \"Neden varım? Nereden geldim? Nereye gidiyorum?\" sorularına bütüncül ve sistematik cevaplar sunar. Ne bir roman, ne bir din kitabı, ne de bilimsel bir eserdir. Kendi sözleriyle: \"Bu kitap ilahi nizamın insanlara bir hediyesidir.\""
+    "cevap": "İlahi Nizam ve Kâinat, 1959 yılında olağandışı bir yöntemle ortaya çıkmış, madde, ruh, kâinat ve insanın varoluşunu tek bir tutarlı sistem içinde açıklayan bir bilgi kitabıdır. Dinlerin, felsefenin ve bilimin ayrı ayrı yanıt aradığı \"Neden varım? Nereden geldim? Nereye gidiyorum?\" sorularına bütüncül ve sistematik cevaplar sunar. Ne bir roman, ne bir din kitabı, ne de bilimsel bir eserdir. Kendi sözleriyle: \"Bu kitap ilahi nizamın insanlara bir hediyesidir.\"",
+    "soru_en": "What is the book \"The Divine Order and the Universe\"?",
+    "cevap_en": "The Divine Order and the Universe (INK) is a book of knowledge that emerged in 1959 through an extraordinary method, explaining matter, spirit, the universe, and human existence within a single coherent system. It offers holistic and systematic answers to the questions that religion, philosophy, and science each seek separately: \"Why do I exist? Where did I come from? Where am I going?\" It is neither a novel, nor a religious book, nor a scientific work. In its own words: \"This book is a gift from the divine order to humanity.\""
   },
   {
     "no": 2,
     "kat": "KİTAP VE KAYNAK",
     "soru": "Bu kitabı kim yazdı?",
-    "cevap": "Kitabın kapağında \"Bedri Ruhselman tarafından düzenlenmiştir\" yazar. \"Yazdı\" değil, \"düzenledi.\" Bu ayrım son derece önemlidir. Bedri Ruhselman (1900-1953), döneminin önde gelen psikiyatristlerinden biridir. Kitaptaki bilgiler onun tarafından üretilmemiş; yalnızca düzenlenmiştir. Asıl kaynak, \"Önder\" adı verilen insan üstü bir bilinçten, hipnoz altındaki Atilla Güyer aracılığıyla iletilen bilgilerdir. Ruhselman bu bilgilerin editörü ve taşıyıcısıdır."
+    "cevap": "Kitabın kapağında \"Bedri Ruhselman tarafından düzenlenmiştir\" yazar. \"Yazdı\" değil, \"düzenledi.\" Bu ayrım son derece önemlidir. Bedri Ruhselman (1900-1953), döneminin önde gelen psikiyatristlerinden biridir. Kitaptaki bilgiler onun tarafından üretilmemiş; yalnızca düzenlenmiştir. Asıl kaynak, \"Önder\" adı verilen insan üstü bir bilinçten, hipnoz altındaki Atilla Güyer aracılığıyla iletilen bilgilerdir. Ruhselman bu bilgilerin editörü ve taşıyıcısıdır.",
+    "soru_en": "Who wrote this book?",
+    "cevap_en": "The cover states \"compiled by Bedri Ruhselman.\" Not \"written,\" but \"compiled.\" This distinction is extremely important. Bedri Ruhselman (1900–1953) was one of the leading psychiatrists of his era. The knowledge in the book was not produced by him; it was only compiled. The actual source is information transmitted from a superhuman consciousness called \"Önder\" (the Leader), through Atilla Güyer under hypnosis. Ruhselman is the editor and carrier of this knowledge."
   },
   {
     "no": 3,
     "kat": "KİTAP VE KAYNAK",
     "soru": "\"Önder\" kimdir veya nedir?",
-    "cevap": "\"Önder\" bu kitabın asıl kaynağıdır. İnsan değildir; insanlık tekâmülünü tamamlamış ve \"Vazife Plânı\" adı verilen çok üst bir varoluş düzeyine geçmiş, insan üstü bir bilinçtir. Tıpkı deneyimli bir rehberin yeni başlayanlara yol göstermesi gibi, Önder de insanlığın gelişimine katkıda bulunmak amacıyla bu bilgileri dünyaya iletmiştir. Sizi ne bir dine davet eder ne de sizden bir şey ister. Yalnızca bilgi verir."
+    "cevap": "\"Önder\" bu kitabın asıl kaynağıdır. İnsan değildir; insanlık tekâmülünü tamamlamış ve \"Vazife Plânı\" adı verilen çok üst bir varoluş düzeyine geçmiş, insan üstü bir bilinçtir. Tıpkı deneyimli bir rehberin yeni başlayanlara yol göstermesi gibi, Önder de insanlığın gelişimine katkıda bulunmak amacıyla bu bilgileri dünyaya iletmiştir. Sizi ne bir dine davet eder ne de sizden bir şey ister. Yalnızca bilgi verir.",
+    "soru_en": "Who or what is \"Önder\" (the Leader)?",
+    "cevap_en": "\"Önder\" is the actual source of this book. It is not human; it is a superhuman consciousness that has completed human evolution and ascended to a much higher level of existence called the \"Mission Plan.\" Just as an experienced guide shows the way to beginners, Önder transmitted this knowledge to the world to contribute to humanity's development. It neither invites you to a religion nor asks anything of you. It only gives information."
   },
   {
     "no": 4,
     "kat": "KİTAP VE KAYNAK",
     "soru": "Madde nedir?",
-    "cevap": "Madde, kendi kendine hiçbir şey yapamayan, hareketsiz bir unsurdur. Dışarıdan gelen etkiler olmadan ne bir şekil alabilir ne de kıpırdayabilir. Masanın üzerindeki bir kalem, itilmeden hareket etmez; işte madde her zaman o kalem gibidir. Dışarıdan etkilenmediği sürece tamamen pasiftir. Hangi şekli alırsa alsın, ister taş ister su ister ateş olsun, maddenin tüm görünümleri dışarıdan gelen etkilerin ürünüdür."
+    "cevap": "Madde, kendi kendine hiçbir şey yapamayan, hareketsiz bir unsurdur. Dışarıdan gelen etkiler olmadan ne bir şekil alabilir ne de kıpırdayabilir. Masanın üzerindeki bir kalem, itilmeden hareket etmez; işte madde her zaman o kalem gibidir. Dışarıdan etkilenmediği sürece tamamen pasiftir. Hangi şekli alırsa alsın, ister taş ister su ister ateş olsun, maddenin tüm görünümleri dışarıdan gelen etkilerin ürünüdür.",
+    "soru_en": "What is matter?",
+    "cevap_en": "Matter is an inert element that can do nothing on its own. Without external influences, it can neither take shape nor move. A pen on a table does not move unless pushed; matter is always like that pen. As long as it is not influenced from outside, it is completely passive. Whatever form it takes—whether stone, water, or fire—all appearances of matter are products of external influences."
   },
   {
     "no": 5,
     "kat": "KİTAP VE KAYNAK",
     "soru": "Asli madde (amorf madde) nedir?",
-    "cevap": "Asli madde, maddenin hiçbir şekil almamış, hiçbir etkiye maruz kalmamış saf halidir. Hareketsizdir, şekilsizdir, renksizdir; hiçbir özelliği yoktur. İnsan zihni onu düşünemez, hayal edemez, göremez. Ama var olduğu kesindir. Bir heykeltıraşın elindeki ham mermeri düşünün; yontulmadan önce ne aslan ne insan ne çiçektir, sadece saf hammaddedir. İşte asli madde de kâinatımızın tüm görünümlerinin yapıldığı o saf, ham hammaddedir."
+    "cevap": "Asli madde, maddenin hiçbir şekil almamış, hiçbir etkiye maruz kalmamış saf halidir. Hareketsizdir, şekilsizdir, renksizdir; hiçbir özelliği yoktur. İnsan zihni onu düşünemez, hayal edemez, göremez. Ama var olduğu kesindir. Bir heykeltıraşın elindeki ham mermeri düşünün; yontulmadan önce ne aslan ne insan ne çiçektir, sadece saf hammaddedir. İşte asli madde de kâinatımızın tüm görünümlerinin yapıldığı o saf, ham hammaddedir.",
+    "soru_en": "What is primordial matter (amorphous matter)?",
+    "cevap_en": "Primordial matter is the pure state of matter that has taken no shape and been subjected to no influence. It is motionless, formless, colorless; it has no properties. The human mind cannot think of it, imagine it, or see it. But its existence is certain. Think of the raw marble in a sculptor's hands; before being carved it is neither a lion nor a human nor a flower, just pure raw material. Primordial matter is that pure, raw material from which all appearances of our universe are made."
   },
   {
     "no": 6,
     "kat": "KİTAP VE KAYNAK",
     "soru": "Bu kitap neden 54 yıl bekletilmiştir?",
-    "cevap": "Bilgilerin 1959'da alındığı, ancak 2013'e kadar tam 54 yıl boyunca noter ve banka kasalarında saklandığı belirtilmektedir. INK sistemine göre her bilgi, insanlığın hazır olduğu anda verilir. 1959'da dünya bu bilgileri kabullenecek idrak düzeyinde değildi. 2013'e gelindiğinde ise insanlığın idrakinin bu bilgileri almaya hazır hale geldiği değerlendirildi. Kitaptaki bu bilgilerin zamanlaması da kâinat nizamının bir parçasıdır."
+    "cevap": "Bilgilerin 1959'da alındığı, ancak 2013'e kadar tam 54 yıl boyunca noter ve banka kasalarında saklandığı belirtilmektedir. INK sistemine göre her bilgi, insanlığın hazır olduğu anda verilir. 1959'da dünya bu bilgileri kabullenecek idrak düzeyinde değildi. 2013'e gelindiğinde ise insanlığın idrakinin bu bilgileri almaya hazır hale geldiği değerlendirildi. Kitaptaki bu bilgilerin zamanlaması da kâinat nizamının bir parçasıdır.",
+    "soru_en": "Why was this book held back for 54 years?",
+    "cevap_en": "It is stated that the knowledge was received in 1959 but kept in notary and bank vaults for exactly 54 years until 2013. According to the INK system, every piece of knowledge is given at the moment humanity is ready. In 1959, the world was not at the level of comprehension to accept this knowledge. By 2013, it was assessed that humanity's comprehension had become ready to receive it. The timing of this knowledge is itself part of the universal order."
   },
   {
     "no": 7,
     "kat": "KİTAP VE KAYNAK",
     "soru": "Bedri Ruhselman kimdir?",
-    "cevap": "Bedri Ruhselman (1900-1953), Türk psikiyatrist ve ruhbilim araştırmacısıdır. Tıp eğitimini Almanya'da tamamlamış, yurda döndükten sonra hem psikiyatri pratiği yapmış hem de ruhun ve ölüm ötesinin bilimsel yollarla araştırılabileceğine inanan Metapsişik Tetkikler ve İlmî Araştırmalar Derneği'ni (MTİAD) kurmuştur. INK kitabını hazırlayanın yanı sıra çeşitli kitaplar ve araştırmalarıyla Türkiye'de bu alanın öncüsü sayılmaktadır."
+    "cevap": "Bedri Ruhselman (1900-1953), Türk psikiyatrist ve ruhbilim araştırmacısıdır. Tıp eğitimini Almanya'da tamamlamış, yurda döndükten sonra hem psikiyatri pratiği yapmış hem de ruhun ve ölüm ötesinin bilimsel yollarla araştırılabileceğine inanan Metapsişik Tetkikler ve İlmî Araştırmalar Derneği'ni (MTİAD) kurmuştur. INK kitabını hazırlayanın yanı sıra çeşitli kitaplar ve araştırmalarıyla Türkiye'de bu alanın öncüsü sayılmaktadır.",
+    "soru_en": "Who is Bedri Ruhselman?",
+    "cevap_en": "Bedri Ruhselman (1900–1953) was a Turkish psychiatrist and researcher of the science of the spirit. He completed his medical education in Germany, and after returning home he both practiced psychiatry and founded the Society for Metapsychic Studies and Scientific Research (MTİAD), believing that the spirit and the afterlife could be investigated through scientific means. In addition to preparing the INK book, he is considered the pioneer of this field in Turkey through his various books and research."
   },
   {
     "no": 8,
     "kat": "KİTAP VE KAYNAK",
     "soru": "Atilla Güyer kimdir, bu kitapta rolü nedir?",
-    "cevap": "Atilla Güyer, INK bilgilerinin aktarılmasında aracı olarak görev yapan kişidir. Hipnoz altında derin bir trans haline giren Güyer, bu haldeyken \"Önder\" adı verilen yüksek bilinçten bilgileri sözlü olarak aktarmıştır. Güyer'in katkısı tamamen pasiftir; bilgileri kendisi üretmemiştir. Bedeni bu süreçte bir mesajın iletilmesi için gerekli teknik araç işlevi görmüştür. Bu tür aracılık biçimine ruhbilimde medyumluk denmektedir."
+    "cevap": "Atilla Güyer, INK bilgilerinin aktarılmasında aracı olarak görev yapan kişidir. Hipnoz altında derin bir trans haline giren Güyer, bu haldeyken \"Önder\" adı verilen yüksek bilinçten bilgileri sözlü olarak aktarmıştır. Güyer'in katkısı tamamen pasiftir; bilgileri kendisi üretmemiştir. Bedeni bu süreçte bir mesajın iletilmesi için gerekli teknik araç işlevi görmüştür. Bu tür aracılık biçimine ruhbilimde medyumluk denmektedir.",
+    "soru_en": "Who is Atilla Güyer, and what is his role in this book?",
+    "cevap_en": "Atilla Güyer is the person who served as intermediary in the transmission of the INK knowledge. Entering a deep trance under hypnosis, Güyer verbally conveyed the knowledge from the higher consciousness called \"Önder\" while in this state. Güyer's contribution is entirely passive; he did not produce the knowledge himself. His body served as the technical instrument needed to transmit a message during this process. This form of intermediation is called mediumship in the science of the spirit."
   },
   {
     "no": 9,
     "kat": "KİTAP VE KAYNAK",
     "soru": "Medyumluk nedir ve bu kitabın ortaya çıkışıyla ilişkisi nedir?",
-    "cevap": "Medyumluk, belirli yeteneklere sahip kişilerin bedensel varlıkları dışındaki bilinçlerden mesaj alabilme halidir. INK'a göre bu süreç gizemli değil, teknik bir mekanizmadır: Yüksek bilinçten gelen titreşimler, uygun durumdaki bir beynin şuur mekanizması aracılığıyla söze dönüşür. Atilla Güyer'in hipnoz altındaki durumu bu mekanizmanın ideal ortamını sağlamıştır. INK bu yolla 1959'da iletilmiş ve Bedri Ruhselman tarafından düzenlenmiştir."
+    "cevap": "Medyumluk, belirli yeteneklere sahip kişilerin bedensel varlıkları dışındaki bilinçlerden mesaj alabilme halidir. INK'a göre bu süreç gizemli değil, teknik bir mekanizmadır: Yüksek bilinçten gelen titreşimler, uygun durumdaki bir beynin şuur mekanizması aracılığıyla söze dönüşür. Atilla Güyer'in hipnoz altındaki durumu bu mekanizmanın ideal ortamını sağlamıştır. INK bu yolla 1959'da iletilmiş ve Bedri Ruhselman tarafından düzenlenmiştir.",
+    "soru_en": "What is mediumship, and how does it relate to the emergence of this book?",
+    "cevap_en": "Mediumship is the ability of certain gifted people to receive messages from consciousnesses outside their bodily existence. According to INK, this process is not mysterious but a technical mechanism: vibrations coming from a higher consciousness are turned into speech through the consciousness mechanism of a suitably conditioned brain. Atilla Güyer's state under hypnosis provided the ideal environment for this mechanism. INK was transmitted this way in 1959 and compiled by Bedri Ruhselman."
   },
   {
     "no": 10,
     "kat": "KİTAP VE KAYNAK",
     "soru": "Bu kitabın amacı nedir, okuyucudan ne beklemektedir?",
-    "cevap": "INK'ın amacı yalnızca bilgi vermektir. Sizi bir inanca davet etmez, ritüel yapmaya zorlamaz, bir topluluğa katılmanızı istemez. Kitap, insanlığın en temel sorularına tutarlı ve kapsamlı yanıtlar sunar. Okuyucudan yalnızca açık bir zihinle bu bilgileri değerlendirmesi beklenir. \"Bu ne bizim, ne sizin, ne de hiç kimsenin\" der INK. Tek beklenti şudur: Ön yargılardan arınmış, dürüst bir okuma."
+    "cevap": "INK'ın amacı yalnızca bilgi vermektir. Sizi bir inanca davet etmez, ritüel yapmaya zorlamaz, bir topluluğa katılmanızı istemez. Kitap, insanlığın en temel sorularına tutarlı ve kapsamlı yanıtlar sunar. Okuyucudan yalnızca açık bir zihinle bu bilgileri değerlendirmesi beklenir. \"Bu ne bizim, ne sizin, ne de hiç kimsenin\" der INK. Tek beklenti şudur: Ön yargılardan arınmış, dürüst bir okuma.",
+    "soru_en": "What is the purpose of this book, and what does it expect from the reader?",
+    "cevap_en": "INK's purpose is only to give knowledge. It does not invite you to a belief, force you to perform rituals, or ask you to join a community. The book offers consistent and comprehensive answers to humanity's most fundamental questions. The reader is only expected to evaluate this knowledge with an open mind. \"This belongs neither to us, nor to you, nor to anyone,\" says INK. The only expectation is this: an honest reading, free of prejudice."
   },
   {
     "no": 11,
     "kat": "KİTAP VE KAYNAK",
     "soru": "Bu kitap bir din kitabı mıdır?",
-    "cevap": "Hayır. INK ne bir din kurar ne de mevcut dinlerden birini benimser. İnsanlara ibadet etmeleri, belirli kurallara uymaları ya da bir topluluğa girmeleri için çağrıda bulunmaz. Dinleri ise tekâmülün önemli birer aracı olarak değerlendirir ve onlara saygıyla yaklaşır. INK bir bilgi sistemidir; herhangi bir inançtan bağımsız olarak okunabilir ve değerlendirilebilir. İnançlı biri de ateist biri de bu kitaptan yararlanabilir."
+    "cevap": "Hayır. INK ne bir din kurar ne de mevcut dinlerden birini benimser. İnsanlara ibadet etmeleri, belirli kurallara uymaları ya da bir topluluğa girmeleri için çağrıda bulunmaz. Dinleri ise tekâmülün önemli birer aracı olarak değerlendirir ve onlara saygıyla yaklaşır. INK bir bilgi sistemidir; herhangi bir inançtan bağımsız olarak okunabilir ve değerlendirilebilir. İnançlı biri de ateist biri de bu kitaptan yararlanabilir.",
+    "soru_en": "Is this book a religious book?",
+    "cevap_en": "No. INK neither founds a religion nor adopts any existing one. It does not call on people to worship, follow certain rules, or join a community. It regards religions as important instruments of evolution and approaches them with respect. INK is a system of knowledge; it can be read and evaluated independently of any belief. A believer and an atheist can both benefit from this book."
   },
   {
     "no": 12,
     "kat": "KİTAP VE KAYNAK",
     "soru": "Bu kitabı anlamak neden zordur?",
-    "cevap": "INK birbiriyle bağlantılı çok sayıda kavram içerir. Asli maddeyi anlamadan ruh anlaşılmaz, ruhu kavramadan tekâmül anlaşılmaz, tekâmülü bilmeden insan anlaşılmaz. Kitabın dili de 1959'ın ağır Osmanlıca üslubuyla yazılmıştır; bugünkü okuyucu için bir dil engeli de vardır. Ayrıca kitap sistematik bölümlere ayrılmamış, tek bir akış içinde ilerler. Tüm bu nedenler birleşince kitabı ilk okuyuşta tam kavramak neredeyse imkânsız hale gelir."
+    "cevap": "INK birbiriyle bağlantılı çok sayıda kavram içerir. Asli maddeyi anlamadan ruh anlaşılmaz, ruhu kavramadan tekâmül anlaşılmaz, tekâmülü bilmeden insan anlaşılmaz. Kitabın dili de 1959'ın ağır Osmanlıca üslubuyla yazılmıştır; bugünkü okuyucu için bir dil engeli de vardır. Ayrıca kitap sistematik bölümlere ayrılmamış, tek bir akış içinde ilerler. Tüm bu nedenler birleşince kitabı ilk okuyuşta tam kavramak neredeyse imkânsız hale gelir.",
+    "soru_en": "Why is this book difficult to understand?",
+    "cevap_en": "INK contains many interconnected concepts. The spirit cannot be understood without understanding primordial matter; evolution cannot be grasped without comprehending the spirit; the human cannot be understood without knowing evolution. The book's language is also written in the heavy Ottoman style of 1959; there is a language barrier for today's reader as well. Moreover, the book is not divided into systematic sections but flows as a single stream. When all these reasons combine, fully grasping the book on a first reading becomes nearly impossible."
   },
   {
     "no": 13,
     "kat": "KİTAP VE KAYNAK",
     "soru": "Bu kitaptaki bilgiler bilimsel midir?",
-    "cevap": "INK klasik anlamda \"bilimsel\" değildir; yani deneyle kanıtlanmış verilerden oluşmaz. Ama bilimle de çelişmez; aksine pek çok noktada modern fiziğin ulaştığı sonuçlarla örtüşür. Çok kâinat teorisi, maddenin pasif yapısı, elektromanyetik alanlar gibi konularda INK'ın 1959'da söyledikleriyle bugün fiziğin ulaştığı yerin bu denli örtüşmesi dikkat çekicidir. Bilim ötesine geçer; bilimin henüz ölçemediği alanlara ışık tutar."
+    "cevap": "INK klasik anlamda \"bilimsel\" değildir; yani deneyle kanıtlanmış verilerden oluşmaz. Ama bilimle de çelişmez; aksine pek çok noktada modern fiziğin ulaştığı sonuçlarla örtüşür. Çok kâinat teorisi, maddenin pasif yapısı, elektromanyetik alanlar gibi konularda INK'ın 1959'da söyledikleriyle bugün fiziğin ulaştığı yerin bu denli örtüşmesi dikkat çekicidir. Bilim ötesine geçer; bilimin henüz ölçemediği alanlara ışık tutar.",
+    "soru_en": "Is the knowledge in this book scientific?",
+    "cevap_en": "INK is not \"scientific\" in the classical sense; that is, it does not consist of experimentally proven data. But it does not contradict science either; on the contrary, it overlaps with the conclusions of modern physics at many points. The fact that what INK said in 1959 about topics such as the multiverse theory, the passive nature of matter, and electromagnetic fields overlaps so closely with where physics stands today is remarkable. It goes beyond science; it sheds light on areas science cannot yet measure."
   },
   {
     "no": 14,
     "kat": "KİTAP VE KAYNAK",
     "soru": "\"Neo-spiritizm\" nedir ve INK bununla nasıl ilişkilendirilir?",
-    "cevap": "Spiritizm, 19. yüzyılda Allan Kardec'in geliştirdiği, ruhlarla iletişim kurulabileceğini öne süren bir öğretidir. Neo-spiritizm ise bu öğretiyi daha sistematik ve bilimsel bir çerçeveye oturtmaya çalışan akımdır. Bedri Ruhselman Türkiye'de bu akımın öncüsüdür. INK neo-spiritüalist bir yöntemle ortaya çıkmış olmakla birlikte içerik olarak spiritizmden çok daha kapsamlıdır; ruh iletişiminden çok, madde-ruh-kâinat sistemini bütünüyle anlatan evrensel bir bilgi sistemidir."
+    "cevap": "Spiritizm, 19. yüzyılda Allan Kardec'in geliştirdiği, ruhlarla iletişim kurulabileceğini öne süren bir öğretidir. Neo-spiritizm ise bu öğretiyi daha sistematik ve bilimsel bir çerçeveye oturtmaya çalışan akımdır. Bedri Ruhselman Türkiye'de bu akımın öncüsüdür. INK neo-spiritüalist bir yöntemle ortaya çıkmış olmakla birlikte içerik olarak spiritizmden çok daha kapsamlıdır; ruh iletişiminden çok, madde-ruh-kâinat sistemini bütünüyle anlatan evrensel bir bilgi sistemidir.",
+    "soru_en": "What is \"neo-spiritualism,\" and how is INK related to it?",
+    "cevap_en": "Spiritism is a teaching developed by Allan Kardec in the 19th century, proposing that communication with spirits is possible. Neo-spiritualism is the movement that tries to place this teaching on a more systematic and scientific footing. Bedri Ruhselman is the pioneer of this movement in Turkey. Although INK emerged through a neo-spiritualist method, in content it is far more comprehensive than spiritism; it is a universal system of knowledge that describes the whole matter-spirit-universe system, rather than merely spirit communication."
   },
   {
     "no": 15,
     "kat": "KİTAP VE KAYNAK",
     "soru": "MTİAD nedir?",
-    "cevap": "MTİAD (Metapsişik Tetkikler ve İlmî Araştırmalar Derneği), Bedri Ruhselman tarafından 1950'de İstanbul'da kurulan ve ruh ile ölüm ötesinin bilimsel yollarla araştırılmasını amaçlayan dernektir. INK kitabının yayıncısı bu derneğin bir koludur. Dernek, medyumluk seanslarını kayıt altına almış, çeşitli araştırmalar yürütmüş ve Ruhselman'ın kitaplarını yayımlamıştır. INK bilgilerini 54 yıl boyunca güvende tutup zamanı geldiğinde yayınlayan da bu kuruluştur."
+    "cevap": "MTİAD (Metapsişik Tetkikler ve İlmî Araştırmalar Derneği), Bedri Ruhselman tarafından 1950'de İstanbul'da kurulan ve ruh ile ölüm ötesinin bilimsel yollarla araştırılmasını amaçlayan dernektir. INK kitabının yayıncısı bu derneğin bir koludur. Dernek, medyumluk seanslarını kayıt altına almış, çeşitli araştırmalar yürütmüş ve Ruhselman'ın kitaplarını yayımlamıştır. INK bilgilerini 54 yıl boyunca güvende tutup zamanı geldiğinde yayınlayan da bu kuruluştur.",
+    "soru_en": "What is MTİAD?",
+    "cevap_en": "MTİAD (the Society for Metapsychic Studies and Scientific Research) is an association founded by Bedri Ruhselman in Istanbul in 1950, aiming to investigate the spirit and the afterlife through scientific means. The publisher of the INK book is a branch of this society. The society recorded mediumship sessions, conducted various research, and published Ruhselman's books. It was this organization that kept the INK knowledge safe for 54 years and published it when the time came."
   },
   {
     "no": 16,
     "kat": "KİTAP VE KAYNAK",
     "soru": "Bu kitap başka hangi öğretilerle karşılaştırılabilir?",
-    "cevap": "INK, Hinduizm'in Vedanta felsefesiyle (ruhun sonsuzluğu), Budizm ile (reenkarnasyon, tekâmül), Allan Kardec'in spiritüalist öğretisiyle ve Teilhard de Chardin'in evrimsel ruhsallığıyla benzer temalar paylaşır. Ancak hiçbiriyle tam örtüşmez. INK'ın kendine özgü bir sistemi vardır. Özellikle \"asli madde\", \"varlık\", \"ünite\" ve \"tekâmülün mekanik boyutu\" gibi kavramlar salt INK'a aittir ve başka hiçbir öğretide bu şekilde ele alınmamıştır."
+    "cevap": "INK, Hinduizm'in Vedanta felsefesiyle (ruhun sonsuzluğu), Budizm ile (reenkarnasyon, tekâmül), Allan Kardec'in spiritüalist öğretisiyle ve Teilhard de Chardin'in evrimsel ruhsallığıyla benzer temalar paylaşır. Ancak hiçbiriyle tam örtüşmez. INK'ın kendine özgü bir sistemi vardır. Özellikle \"asli madde\", \"varlık\", \"ünite\" ve \"tekâmülün mekanik boyutu\" gibi kavramlar salt INK'a aittir ve başka hiçbir öğretide bu şekilde ele alınmamıştır.",
+    "soru_en": "What other teachings can this book be compared with?",
+    "cevap_en": "INK shares similar themes with the Vedanta philosophy of Hinduism (the eternity of the spirit), with Buddhism (reincarnation, evolution), with Allan Kardec's spiritualist teaching, and with the evolutionary spirituality of Teilhard de Chardin. Yet it fully coincides with none of them. INK has a system of its own. In particular, concepts such as \"primordial matter,\" \"being,\" \"unit,\" and \"the mechanical dimension of evolution\" belong solely to INK and are not treated this way in any other teaching."
   },
   {
     "no": 17,
     "kat": "KİTAP VE KAYNAK",
     "soru": "Bu kitaptaki bilgilerin doğruluğunu nasıl değerlendirmeliyiz?",
-    "cevap": "INK \"bana inan\" demez; \"değerlendir\" der. Kitabın sunduğu bilgileri kendi iç tutarlılığı, modern bilimle örtüşmesi ve hayatla örtüşmesi açısından değerlendirmek en doğru yaklaşımdır. Birçok okuyucu, INK'ın anlattığı sistemi kavradıkça hayatlarındaki olaylara bakışlarının değiştiğini ifade etmektedir. En sağlıklı tutum ne körü körüne kabul ne de peşin redddir. Açık bir zihinle okumak, kendi deneyimlerinizle karşılaştırmak yeterlidir."
+    "cevap": "INK \"bana inan\" demez; \"değerlendir\" der. Kitabın sunduğu bilgileri kendi iç tutarlılığı, modern bilimle örtüşmesi ve hayatla örtüşmesi açısından değerlendirmek en doğru yaklaşımdır. Birçok okuyucu, INK'ın anlattığı sistemi kavradıkça hayatlarındaki olaylara bakışlarının değiştiğini ifade etmektedir. En sağlıklı tutum ne körü körüne kabul ne de peşin redddir. Açık bir zihinle okumak, kendi deneyimlerinizle karşılaştırmak yeterlidir.",
+    "soru_en": "How should we evaluate the accuracy of the knowledge in this book?",
+    "cevap_en": "INK does not say \"believe me\"; it says \"evaluate.\" The most correct approach is to evaluate the knowledge the book offers in terms of its internal consistency, its overlap with modern science, and its overlap with life. Many readers report that as they grasp the system INK describes, their view of the events in their lives changes. The healthiest attitude is neither blind acceptance nor outright rejection. Reading with an open mind and comparing with your own experiences is enough."
   },
   {
     "no": 18,
     "kat": "KİTAP VE KAYNAK",
     "soru": "Bu kitabı okumak için ön bilgi gerekir mi?",
-    "cevap": "Teknik bir ön bilgi gerekmez; merak yeterlidir. Ancak bazı kavramları (madde, enerji, ruh, tekâmül) daha önce düşünmüş olmak anlamayı kolaylaştırır. INK herhangi bir dini ya da felsefi eğitime gerek duymadan okunabilir. Bu kitap özellikle \"1000 Soruda İlahi Nizam ve Kâinat\" olarak yeniden düzenlenerek, hiç bilgisi olmayanların da rahatlıkla takip edebileceği bir yapıya kavuşturulmuştur."
+    "cevap": "Teknik bir ön bilgi gerekmez; merak yeterlidir. Ancak bazı kavramları (madde, enerji, ruh, tekâmül) daha önce düşünmüş olmak anlamayı kolaylaştırır. INK herhangi bir dini ya da felsefi eğitime gerek duymadan okunabilir. Bu kitap özellikle \"1000 Soruda İlahi Nizam ve Kâinat\" olarak yeniden düzenlenerek, hiç bilgisi olmayanların da rahatlıkla takip edebileceği bir yapıya kavuşturulmuştur.",
+    "soru_en": "Is prior knowledge required to read this book?",
+    "cevap_en": "No technical prior knowledge is required; curiosity is enough. However, having previously thought about certain concepts (matter, energy, spirit, evolution) makes comprehension easier. INK can be read without any religious or philosophical education. This book has been especially reorganized as \"The Divine Order and the Universe in 1000 Questions,\" giving it a structure that even those with no prior knowledge can easily follow."
   },
   {
     "no": 19,
     "kat": "KİTAP VE KAYNAK",
     "soru": "Kitap neden \"düzenlenmiştir\" deniyor, \"yazılmıştır\" değil?",
-    "cevap": "\"Yazmak\" bir bilgiyi sıfırdan üretmek demektir. \"Düzenlemek\" ise var olan bir bilgiyi bir araya getirip sıraya koymaktır. Bedri Ruhselman, kendisine ulaşan bilgileri kendi fikri olmadığı için \"yazdım\" diyememiş; \"düzenledim\" demiştir. Bu dürüstlük kitabın temel özelliklerinden biridir. Bilginin kaynağı onun zihninden değil, çok daha yüksek bir bilinçten gelmiştir. Ruhselman yalnızca o bilgilerin taşıyıcısı ve editörü olmuştur."
+    "cevap": "\"Yazmak\" bir bilgiyi sıfırdan üretmek demektir. \"Düzenlemek\" ise var olan bir bilgiyi bir araya getirip sıraya koymaktır. Bedri Ruhselman, kendisine ulaşan bilgileri kendi fikri olmadığı için \"yazdım\" diyememiş; \"düzenledim\" demiştir. Bu dürüstlük kitabın temel özelliklerinden biridir. Bilginin kaynağı onun zihninden değil, çok daha yüksek bir bilinçten gelmiştir. Ruhselman yalnızca o bilgilerin taşıyıcısı ve editörü olmuştur.",
+    "soru_en": "Why is the book said to be \"compiled,\" not \"written\"?",
+    "cevap_en": "\"To write\" means to produce knowledge from scratch. \"To compile\" means to bring together and arrange existing knowledge. Because the knowledge that reached Bedri Ruhselman was not his own idea, he could not say \"I wrote it\"; he said \"I compiled it.\" This honesty is one of the book's fundamental characteristics. The source of the knowledge came not from his mind but from a much higher consciousness. Ruhselman was only the carrier and editor of that knowledge."
   },
   {
     "no": 20,
     "kat": "KİTAP VE KAYNAK",
     "soru": "Bu kitabı okurken zihnimizi nasıl hazırlamalıyız?",
-    "cevap": "INK'ı okurken en önemli şey acele etmemektir. Kavramlar birbirini gerektirir; birini atlamak sonrasını anlaşılmaz kılar. \"Bunu anlamıyorum\" hissi normaldir; ikinci ve üçüncü okumada çoğu şey yerli yerine oturur. Dinî ya da bilimsel önyargıları bir kenara bırakmak, kavramlara taze bir gözle bakmak gerekir. Bu kitap bir anda okunup bitecek bir eser değildir; yavaş yavaş sindirilen, hayatla karşılaştırılan, zamanla derinleşen bir yolculuktur."
+    "cevap": "INK'ı okurken en önemli şey acele etmemektir. Kavramlar birbirini gerektirir; birini atlamak sonrasını anlaşılmaz kılar. \"Bunu anlamıyorum\" hissi normaldir; ikinci ve üçüncü okumada çoğu şey yerli yerine oturur. Dinî ya da bilimsel önyargıları bir kenara bırakmak, kavramlara taze bir gözle bakmak gerekir. Bu kitap bir anda okunup bitecek bir eser değildir; yavaş yavaş sindirilen, hayatla karşılaştırılan, zamanla derinleşen bir yolculuktur.",
+    "soru_en": "How should we prepare our minds while reading this book?",
+    "cevap_en": "The most important thing while reading INK is not to rush. The concepts require one another; skipping one renders what follows incomprehensible. The feeling \"I don't understand this\" is normal; on a second and third reading, most things fall into place. One must set aside religious or scientific prejudices and look at the concepts with fresh eyes. This book is not a work to be read through in one sitting; it is a journey that is slowly digested, compared with life, and deepens over time."
   },
   {
     "no": 21,
     "kat": "MADDE",
     "soru": "Madde kendi kendine hareket edebilir mi?",
-    "cevap": "Hayır. INK'ın en temel bilgilerinden biri budur: Madde kendi kendine hareket edemez. Dışarıdan bir etki gelmeden en küçük kıpırdanışı bile yapamaz. Bu özelliği maddeyi pasif ve edilgen kılar. Masada duran nesne itilmeden hareket etmez; madde de böyledir. Maddenin tüm hareketleri, tüm şekil değişimleri, tüm görünümleri hep dışarıdan gelen etkilerle gerçekleşir. Tüm sistemin kilit taşı olan bu gerçek, başlangıçta basit görünse de derin sonuçlar doğurur."
+    "cevap": "Hayır. INK'ın en temel bilgilerinden biri budur: Madde kendi kendine hareket edemez. Dışarıdan bir etki gelmeden en küçük kıpırdanışı bile yapamaz. Bu özelliği maddeyi pasif ve edilgen kılar. Masada duran nesne itilmeden hareket etmez; madde de böyledir. Maddenin tüm hareketleri, tüm şekil değişimleri, tüm görünümleri hep dışarıdan gelen etkilerle gerçekleşir. Tüm sistemin kilit taşı olan bu gerçek, başlangıçta basit görünse de derin sonuçlar doğurur.",
+    "soru_en": "Can matter move on its own?",
+    "cevap_en": "No. This is one of INK's most fundamental teachings: matter cannot move on its own. Without an influence from outside, it cannot make even the slightest stir. This property makes matter passive and inert. An object on a table does not move unless pushed; matter is the same. All movements of matter, all its changes of form, all its appearances always occur through influences coming from outside. This truth, the keystone of the whole system, may seem simple at first but leads to profound consequences."
   },
   {
     "no": 22,
     "kat": "MADDE",
     "soru": "Asli madde neden şekilsizdir?",
-    "cevap": "Çünkü şekil, hareketin sonucudur. Hareket olmadan şekil de olmaz. Asli madde hiçbir etkiye maruz kalmamış, dolayısıyla hiç hareket etmemiş, dolayısıyla hiçbir şekil almamış maddedir. Saf hammadde halidir. Hiç yoğrulmamış hamur, hiç yontulmamış taş gibi. O hamurdan her türlü ekmek yapılabilir ama hamur henüz hiçbirisi değildir. İşte asli madde de kâinatımızın görünür her şeyinin yapıldığı o saf, işlenmemiş hammaddedir."
+    "cevap": "Çünkü şekil, hareketin sonucudur. Hareket olmadan şekil de olmaz. Asli madde hiçbir etkiye maruz kalmamış, dolayısıyla hiç hareket etmemiş, dolayısıyla hiçbir şekil almamış maddedir. Saf hammadde halidir. Hiç yoğrulmamış hamur, hiç yontulmamış taş gibi. O hamurdan her türlü ekmek yapılabilir ama hamur henüz hiçbirisi değildir. İşte asli madde de kâinatımızın görünür her şeyinin yapıldığı o saf, işlenmemiş hammaddedir.",
+    "soru_en": "Why is primordial matter formless?",
+    "cevap_en": "Because form is the result of movement. Without movement there is no form. Primordial matter is matter that has been subjected to no influence, therefore has never moved, therefore has taken no form. It is the pure raw-material state. Like dough never kneaded, like stone never carved. Any kind of bread can be made from that dough, but the dough is not yet any of them. Primordial matter is likewise the pure, unworked raw material from which everything visible in our universe is made."
   },
   {
     "no": 23,
     "kat": "MADDE",
     "soru": "Asli madde dışarıdan etkilenmediğinde ne olur?",
-    "cevap": "Mutlak bir hareketsizlik içinde kalır. Bu durumda ne şekli vardır, ne rengi, ne sertliği, ne yumuşaklığı. Hiçbir özelliği yoktur. Varken bile insan için \"yok\" sayılabilir; çünkü zihin onu kavrayamaz, gözler göremez, hiçbir alet ölçemez. INK şunu söyler: Asli madde mevcuttur ama insan için yokla eşdeğerdir. Düşünülemez, hayal edilemez ama var olduğu mantıksal olarak zorunludur. Bu paradoks, kâinatın temelindeki en büyük gizemdir."
+    "cevap": "Mutlak bir hareketsizlik içinde kalır. Bu durumda ne şekli vardır, ne rengi, ne sertliği, ne yumuşaklığı. Hiçbir özelliği yoktur. Varken bile insan için \"yok\" sayılabilir; çünkü zihin onu kavrayamaz, gözler göremez, hiçbir alet ölçemez. INK şunu söyler: Asli madde mevcuttur ama insan için yokla eşdeğerdir. Düşünülemez, hayal edilemez ama var olduğu mantıksal olarak zorunludur. Bu paradoks, kâinatın temelindeki en büyük gizemdir.",
+    "soru_en": "What happens to primordial matter when it is not influenced from outside?",
+    "cevap_en": "It remains in absolute stillness. In this state it has neither shape, nor color, nor hardness, nor softness. It has no properties. Even while existing it may be considered \"nonexistent\" for humans; because the mind cannot grasp it, the eyes cannot see it, no instrument can measure it. INK says: primordial matter exists but is equivalent to nonexistence for humans. It cannot be thought of or imagined, yet its existence is logically necessary. This paradox is the greatest mystery at the foundation of the universe."
   },
   {
     "no": 24,
     "kat": "MADDE",
     "soru": "Amorf madde ile asli madde aynı şey midir?",
-    "cevap": "Evet, ikisi aynı kavramı ifade eder. \"Amorf\" kelimesi Yunancadan gelir ve \"şekilsiz\" anlamı taşır. INK bu iki terimi birbirinin yerine kullanır. Her ikisi de şekilsiz, hareketsiz, tüm etkilerden arınmış saf madde halini anlatır. \"Asli\" kelimesi onun kâinatımızın özü ve temeli olduğunu vurgularken, \"amorf\" şekilsiz yapısını öne çıkarır. İkisi de aynı gerçeği farklı açılardan tanımlar; birini bilmek diğerini de bilmektir."
+    "cevap": "Evet, ikisi aynı kavramı ifade eder. \"Amorf\" kelimesi Yunancadan gelir ve \"şekilsiz\" anlamı taşır. INK bu iki terimi birbirinin yerine kullanır. Her ikisi de şekilsiz, hareketsiz, tüm etkilerden arınmış saf madde halini anlatır. \"Asli\" kelimesi onun kâinatımızın özü ve temeli olduğunu vurgularken, \"amorf\" şekilsiz yapısını öne çıkarır. İkisi de aynı gerçeği farklı açılardan tanımlar; birini bilmek diğerini de bilmektir.",
+    "soru_en": "Are amorphous matter and primordial matter the same thing?",
+    "cevap_en": "Yes, both express the same concept. The word \"amorphous\" comes from Greek and means \"formless.\" INK uses these two terms interchangeably. Both describe the pure state of matter that is formless, motionless, and free of all influences. The word \"primordial\" emphasizes that it is the essence and foundation of our universe, while \"amorphous\" highlights its formless structure. Both define the same reality from different angles; to know one is to know the other."
   },
   {
     "no": 25,
     "kat": "MADDE",
     "soru": "Maddenin hareketsiz hali neden insan tarafından idrak edilemez?",
-    "cevap": "İnsan beyni ve duyuları yalnızca hareket eden, titreşen, etki yayan şeyleri algılayabilir. Işık görmek için fotonların göze çarpması gerekir; ses duymak için hava moleküllerinin titremesi şarttır. Etkisi olmayan, titreşimi olmayan, hiçbir şeyi etkilemeyen bir varlığı algılamak için algı mekanizmalarımızda hiçbir araç yoktur. Asli madde tam da bu özelliktedir. Var olduğunu yalnızca mantıkla, akıl yürüterek kabul edebiliriz; ama onu hiçbir zaman doğrudan algılayamayız."
+    "cevap": "İnsan beyni ve duyuları yalnızca hareket eden, titreşen, etki yayan şeyleri algılayabilir. Işık görmek için fotonların göze çarpması gerekir; ses duymak için hava moleküllerinin titremesi şarttır. Etkisi olmayan, titreşimi olmayan, hiçbir şeyi etkilemeyen bir varlığı algılamak için algı mekanizmalarımızda hiçbir araç yoktur. Asli madde tam da bu özelliktedir. Var olduğunu yalnızca mantıkla, akıl yürüterek kabul edebiliriz; ama onu hiçbir zaman doğrudan algılayamayız.",
+    "soru_en": "Why can matter's motionless state not be perceived by humans?",
+    "cevap_en": "The human brain and senses can perceive only things that move, vibrate, and emit influence. To see light, photons must strike the eye; to hear sound, air molecules must vibrate. To perceive a being with no influence, no vibration, affecting nothing, our perceptual mechanisms have no instrument. Primordial matter is precisely of this nature. We can accept its existence only through logic, through reasoning; but we can never perceive it directly."
   },
   {
     "no": 26,
     "kat": "MADDE",
     "soru": "Maddenin şekil alması için ne gerekir?",
-    "cevap": "Dışarıdan bir etkinin gelmesi gerekir. Bu etki hareketsiz duran maddenin dengesini bozar; denge kendini yeniden kurmaya çalışır ve bu çaba hareketi doğurur; hareket de şekli oluşturur. Yani şekil için üç şey zorunludur: Bir dış etki, bu etkiye karşı maddenin gösterdiği tepki ve bu etkileşimden doğan hareket. Dış etki gelmeden madde hareketsiz kalır; hareket olmadan da şekil oluşmaz. Her şeyin başında o dış etki vardır."
+    "cevap": "Dışarıdan bir etkinin gelmesi gerekir. Bu etki hareketsiz duran maddenin dengesini bozar; denge kendini yeniden kurmaya çalışır ve bu çaba hareketi doğurur; hareket de şekli oluşturur. Yani şekil için üç şey zorunludur: Bir dış etki, bu etkiye karşı maddenin gösterdiği tepki ve bu etkileşimden doğan hareket. Dış etki gelmeden madde hareketsiz kalır; hareket olmadan da şekil oluşmaz. Her şeyin başında o dış etki vardır.",
+    "soru_en": "What is required for matter to take shape?",
+    "cevap_en": "An influence must come from outside. This influence disturbs the balance of the motionless matter; the balance tries to re-establish itself, and this effort gives rise to movement; movement in turn produces form. So three things are necessary for form: an external influence, the reaction matter shows to this influence, and the movement born of this interaction. Without an external influence, matter remains motionless; without movement, no form arises. At the beginning of everything lies that external influence."
   },
   {
     "no": 27,
     "kat": "MADDE",
     "soru": "Taş, su ve hava neden birbirinden farklı görünür?",
-    "cevap": "Hepsi aynı asli maddeden türemiştir ama her biri farklı miktarda ve farklı biçimde hareket içindedir. Taşın içindeki hareket az ve basit, bu yüzden sert ve yoğun görünür. Suyun içindeki daha fazla ve karmaşık, bu yüzden akışkandır. Havanın içindeki çok daha fazla, bu yüzden görünmezdir. Maddenin içindeki hareket ne kadar zengin ve karmaşıksa, o kadar \"gelişmiş\" bir görünüm alır. Farklılık özden değil; hareket miktarından kaynaklanır."
+    "cevap": "Hepsi aynı asli maddeden türemiştir ama her biri farklı miktarda ve farklı biçimde hareket içindedir. Taşın içindeki hareket az ve basit, bu yüzden sert ve yoğun görünür. Suyun içindeki daha fazla ve karmaşık, bu yüzden akışkandır. Havanın içindeki çok daha fazla, bu yüzden görünmezdir. Maddenin içindeki hareket ne kadar zengin ve karmaşıksa, o kadar \"gelişmiş\" bir görünüm alır. Farklılık özden değil; hareket miktarından kaynaklanır.",
+    "soru_en": "Why do stone, water, and air appear different from one another?",
+    "cevap_en": "They all derive from the same primordial matter, but each is in motion in a different amount and a different way. The movement within stone is small and simple, so it appears hard and dense. The movement within water is greater and more complex, so it is fluid. The movement within air is far greater, so it is invisible. The richer and more complex the movement within matter, the more \"developed\" an appearance it takes. The difference arises not from the essence, but from the amount of movement."
   },
   {
     "no": 28,
     "kat": "MADDE",
     "soru": "İnce madde ile kaba madde arasındaki fark nedir?",
-    "cevap": "Bu fark maddenin \"yoğunluk\" derecesiyle ilgilidir. Kaba maddede parçacıklar birbirine sıkı bağlıdır; onları etkilemek için güçlü bir etki gerekir. Demir, granit gibi katı maddeler buna örnektir. İnce maddede parçacıklar birbirine gevşek bağlıdır; çok zayıf bir etki bile onları harekete geçirebilir. Dikkat: İncelik ile \"gelişmişlik\" aynı şey değildir. İnce bir madde basit, kaba bir madde ise gelişmiş olabilir. Su, buz ve buhar üçü de aynı gelişmişlik düzeyinde; yalnızca incelikleri farklıdır."
+    "cevap": "Bu fark maddenin \"yoğunluk\" derecesiyle ilgilidir. Kaba maddede parçacıklar birbirine sıkı bağlıdır; onları etkilemek için güçlü bir etki gerekir. Demir, granit gibi katı maddeler buna örnektir. İnce maddede parçacıklar birbirine gevşek bağlıdır; çok zayıf bir etki bile onları harekete geçirebilir. Dikkat: İncelik ile \"gelişmişlik\" aynı şey değildir. İnce bir madde basit, kaba bir madde ise gelişmiş olabilir. Su, buz ve buhar üçü de aynı gelişmişlik düzeyinde; yalnızca incelikleri farklıdır.",
+    "soru_en": "What is the difference between fine matter and coarse matter?",
+    "cevap_en": "This difference concerns the degree of matter's \"density.\" In coarse matter, the particles are tightly bound to one another; a strong influence is needed to affect them. Solid substances like iron and granite are examples. In fine matter, the particles are loosely bound; even a very weak influence can set them in motion. Note: fineness and \"development\" are not the same thing. A fine matter can be simple, a coarse matter developed. Water, ice, and vapor are all at the same level of development; only their fineness differs."
   },
   {
     "no": 29,
     "kat": "MADDE",
     "soru": "Basit madde ile mudil madde arasındaki fark nedir?",
-    "cevap": "\"Mudil\" kelimesi karmaşık ve gelişmiş anlamına gelir. Basit madde, içindeki hareket sayısı ve çeşitliliği az olan maddedir; en ilkel hallerdir. Mudil madde ise çok sayıda ve çeşitli hareketin bir arada bulunduğu, çok daha gelişmiş maddedir. Hidrojen basit, uranyum ise ondan çok daha mudildir. İnsan beyni maddeleri arasında ise inanılmaz derecede mudil kombinasyonlar vardır. Madde ne kadar mudilleşirse o kadar çok etki alıp verebilir."
+    "cevap": "\"Mudil\" kelimesi karmaşık ve gelişmiş anlamına gelir. Basit madde, içindeki hareket sayısı ve çeşitliliği az olan maddedir; en ilkel hallerdir. Mudil madde ise çok sayıda ve çeşitli hareketin bir arada bulunduğu, çok daha gelişmiş maddedir. Hidrojen basit, uranyum ise ondan çok daha mudildir. İnsan beyni maddeleri arasında ise inanılmaz derecede mudil kombinasyonlar vardır. Madde ne kadar mudilleşirse o kadar çok etki alıp verebilir.",
+    "soru_en": "What is the difference between simple matter and complex (mudil) matter?",
+    "cevap_en": "The word \"mudil\" means complex and developed. Simple matter is matter in which the number and variety of movements are few; these are the most primitive states. Complex matter is far more developed matter, in which many varied movements coexist. Hydrogen is simple, while uranium is far more complex than it. Among the matters of the human brain there are incredibly complex combinations. The more complex matter becomes, the more influence it can give and receive."
   },
   {
     "no": 30,
     "kat": "MADDE",
     "soru": "Su, buz ve buharın incelik-kabalık açısından farkı nedir?",
-    "cevap": "INK bu konuda önemli bir örnek verir. Su, buz ve buhar birbirinden incelik-kabalık açısından farklıdır; buz kaba, buhar incedir. Ama bu üçü de madde zincirinin aynı halkasındadır; hepsinin \"gelişmişlik düzeyi\" aynıdır. Yalnızca parçacıklar arası mesafe değişmiştir. Bu, incelik ile gelişmişliğin aynı şey olmadığını gösteren mükemmel bir örnektir. Bir madde incelmeden gelişmiş olabilir; ya da gelişmeden incelmiş olabilir."
+    "cevap": "INK bu konuda önemli bir örnek verir. Su, buz ve buhar birbirinden incelik-kabalık açısından farklıdır; buz kaba, buhar incedir. Ama bu üçü de madde zincirinin aynı halkasındadır; hepsinin \"gelişmişlik düzeyi\" aynıdır. Yalnızca parçacıklar arası mesafe değişmiştir. Bu, incelik ile gelişmişliğin aynı şey olmadığını gösteren mükemmel bir örnektir. Bir madde incelmeden gelişmiş olabilir; ya da gelişmeden incelmiş olabilir.",
+    "soru_en": "What is the difference between water, ice, and vapor in terms of fineness and coarseness?",
+    "cevap_en": "INK gives an important example here. Water, ice, and vapor differ from one another in fineness and coarseness; ice is coarse, vapor is fine. But all three are on the same link of the matter chain; their \"level of development\" is the same. Only the distance between the particles has changed. This is a perfect example showing that fineness and development are not the same thing. A matter can be developed without becoming fine; or it can become fine without developing."
   },
   {
     "no": 31,
     "kat": "MADDE",
     "soru": "Hidrojen atomunun INK için önemi nedir?",
-    "cevap": "INK'a göre hidrojen atumu, kâinatımızdaki madde zincirinin en önemli halkasıdır. Dünyamızı oluşturan tüm maddelerin ve gök cisimlerinin temeli bu atomun çeşitli kombinasyonlarına dayanır. Asli maddeden başlayan madde yolculuğu, ilk düzenli yapı olan ilk hidrojen atomuna ulaşmakla gerçek anlamda başlar. Tüm yıldızlar, gezegenler ve canlılar bu ilk halkadan yukarı doğru inşa edilmiştir. Hidrojen âlemi kâinatımızın temel inşaat malzemesidir."
+    "cevap": "INK'a göre hidrojen atumu, kâinatımızdaki madde zincirinin en önemli halkasıdır. Dünyamızı oluşturan tüm maddelerin ve gök cisimlerinin temeli bu atomun çeşitli kombinasyonlarına dayanır. Asli maddeden başlayan madde yolculuğu, ilk düzenli yapı olan ilk hidrojen atomuna ulaşmakla gerçek anlamda başlar. Tüm yıldızlar, gezegenler ve canlılar bu ilk halkadan yukarı doğru inşa edilmiştir. Hidrojen âlemi kâinatımızın temel inşaat malzemesidir.",
+    "soru_en": "What is the importance of the hydrogen atom for INK?",
+    "cevap_en": "According to INK, the hydrogen atom is the most important link in the matter chain of our universe. The foundation of all the substances and celestial bodies that make up our world rests on various combinations of this atom. The journey of matter that begins from primordial matter truly begins by reaching the first hydrogen atom, the first ordered structure. All stars, planets, and living beings are built upward from this first link. The hydrogen realm is the basic building material of our universe."
   },
   {
     "no": 32,
     "kat": "MADDE",
     "soru": "İnsan tarafından bilinen hidrojen ile INK'ın bahsettiği ilk hidrojen aynı mıdır?",
-    "cevap": "Hayır. INK bunu açıkça belirtir. İnsanların laboratuvarda tanıdığı H atomu, INK'ın bahsettiği ilk hidrojen atomunun çok ilerlemiş ve mudilleşmiş bir halidir. İlk hidrojen atumu, asli maddeden hareket alarak ilk şeklini almış en basit yapıdır; insan idraki onu henüz tanımamaktadır. Bilim ilerledikçe bu ilk atomlara ulaşılabileceği, ancak şu an için insan teknolojisinin bu sınırın çok gerisinde kaldığı vurgulanmaktadır."
+    "cevap": "Hayır. INK bunu açıkça belirtir. İnsanların laboratuvarda tanıdığı H atomu, INK'ın bahsettiği ilk hidrojen atomunun çok ilerlemiş ve mudilleşmiş bir halidir. İlk hidrojen atumu, asli maddeden hareket alarak ilk şeklini almış en basit yapıdır; insan idraki onu henüz tanımamaktadır. Bilim ilerledikçe bu ilk atomlara ulaşılabileceği, ancak şu an için insan teknolojisinin bu sınırın çok gerisinde kaldığı vurgulanmaktadır.",
+    "soru_en": "Is the hydrogen known by humans the same as the first hydrogen INK speaks of?",
+    "cevap_en": "No. INK states this clearly. The H atom that humans know in the laboratory is a much more advanced and complex state of the first hydrogen atom INK speaks of. The first hydrogen atom is the simplest structure that took its first form by receiving movement from primordial matter; human comprehension does not yet know it. It is emphasized that as science advances these first atoms may be reached, but for now human technology lags far behind this threshold."
   },
   {
     "no": 33,
     "kat": "MADDE",
     "soru": "Uranyum ile hidrojen arasındaki inkişaf farkı nedir?",
-    "cevap": "INK, hidrojen ile uranyumu karşılaştırarak çarpıcı bir örnek verir. Her ikisi de aynı asli maddeden türemiştir. Ama uranyumun içindeki hareket sayısı ve çeşitliliği, hidrojeninkinden onlarca kat fazladır. Bu yüzden uranyum etrafına hidrojenin çok üzerinde bir etki yayar ve etrafından çok daha büyük etkiler alır. Ne kadar çok etki alınıp verilirse, o madde o kadar \"mudil\" yani gelişmiştir. Uranyum bu anlamda hidrojenin çok üzerindedir."
+    "cevap": "INK, hidrojen ile uranyumu karşılaştırarak çarpıcı bir örnek verir. Her ikisi de aynı asli maddeden türemiştir. Ama uranyumun içindeki hareket sayısı ve çeşitliliği, hidrojeninkinden onlarca kat fazladır. Bu yüzden uranyum etrafına hidrojenin çok üzerinde bir etki yayar ve etrafından çok daha büyük etkiler alır. Ne kadar çok etki alınıp verilirse, o madde o kadar \"mudil\" yani gelişmiştir. Uranyum bu anlamda hidrojenin çok üzerindedir.",
+    "soru_en": "What is the developmental difference between uranium and hydrogen?",
+    "cevap_en": "INK gives a striking example by comparing hydrogen and uranium. Both derive from the same primordial matter. But the number and variety of movements within uranium are dozens of times greater than those within hydrogen. For this reason uranium emits influence on its surroundings far above that of hydrogen and receives far greater influences from its surroundings. The more influence is given and received, the more \"complex,\" that is, developed, that matter is. In this sense uranium is far above hydrogen."
   },
   {
     "no": 34,
     "kat": "MADDE",
     "soru": "Madde neden sonsuz çeşitlilik gösterir?",
-    "cevap": "Çünkü hareket sonsuz kombinasyon üretebilir. Asli maddeden başlayan yolculukta her adımda yeni hareket türleri, yeni kombinasyonlar ve yeni düzenler ortaya çıkar. Tıpkı müzikte yalnızca yedi notadan sonsuz sayıda melodi çıkabildiği gibi, maddenin içindeki hareket çeşitleri de sonsuz sayıda farklı madde hali üretebilir. İnsan duyularının algılayabildiği maddeler bu sonsuz zincirin yalnızca küçük bir bölümünü oluşturur; üstte ve altta sayısız bilinmeyen madde hali mevcuttur."
+    "cevap": "Çünkü hareket sonsuz kombinasyon üretebilir. Asli maddeden başlayan yolculukta her adımda yeni hareket türleri, yeni kombinasyonlar ve yeni düzenler ortaya çıkar. Tıpkı müzikte yalnızca yedi notadan sonsuz sayıda melodi çıkabildiği gibi, maddenin içindeki hareket çeşitleri de sonsuz sayıda farklı madde hali üretebilir. İnsan duyularının algılayabildiği maddeler bu sonsuz zincirin yalnızca küçük bir bölümünü oluşturur; üstte ve altta sayısız bilinmeyen madde hali mevcuttur.",
+    "soru_en": "Why does matter show infinite variety?",
+    "cevap_en": "Because movement can produce infinite combinations. On the journey that begins from primordial matter, new kinds of movement, new combinations, and new orders emerge at every step. Just as in music infinite melodies can arise from only seven notes, the varieties of movement within matter can produce an infinite number of different states of matter. The matters perceptible to the human senses make up only a small portion of this infinite chain; above and below lie countless unknown states of matter."
   },
   {
     "no": 35,
     "kat": "MADDE",
     "soru": "Maddenin \"inkişafı\" ne anlama gelir?",
-    "cevap": "\"İnkişaf\" gelişme ve ilerleme demektir. Maddenin inkişafı, içindeki hareket sayısı ve çeşitliliğinin artması demektir. Basit bir atom zamanla daha karmaşık bir yapıya dönüşür, daha fazla etki alıp vermeye başlar. Bu gelişme pasif bir süreçtir; madde kendi kendine değil, dışarıdan gelen etkiler aracılığıyla inkişaf eder. Ruhların tekâmül ihtiyaçları bu inkişafın temel itici gücüdür; ruhlar madde üzerindeki etkileriyle onu adım adım geliştirirler."
+    "cevap": "\"İnkişaf\" gelişme ve ilerleme demektir. Maddenin inkişafı, içindeki hareket sayısı ve çeşitliliğinin artması demektir. Basit bir atom zamanla daha karmaşık bir yapıya dönüşür, daha fazla etki alıp vermeye başlar. Bu gelişme pasif bir süreçtir; madde kendi kendine değil, dışarıdan gelen etkiler aracılığıyla inkişaf eder. Ruhların tekâmül ihtiyaçları bu inkişafın temel itici gücüdür; ruhlar madde üzerindeki etkileriyle onu adım adım geliştirirler.",
+    "soru_en": "What does the \"development\" of matter mean?",
+    "cevap_en": "\"Development\" means growth and progress. The development of matter means the increase in the number and variety of movements within it. A simple atom over time turns into a more complex structure, begins to give and receive more influence. This development is a passive process; matter develops not on its own but through influences coming from outside. The evolutionary needs of spirits are the fundamental driving force of this development; spirits develop matter step by step through their influences upon it."
   },
   {
     "no": 36,
     "kat": "MADDE",
     "soru": "Maddede \"hareket\" nasıl oluşur?",
-    "cevap": "Hareket, bir dengenin bozulmasıyla başlar. Her madde içinde iki zıt güç dengeli bir şekilde bir arada durur. Dışarıdan gelen bir etki bu dengeyi bozar; bozulan denge kendini yeniden kurmaya çalışır ve bu çaba sırasında hareket oluşur. Düalite prensibi ve değer farklanması olarak adlandırılan bu mekanizma tüm madde hareketlerinin temelinde yatar. Bu mekanizma olmadan madde hareketsiz kalır, hareketsiz madde de şekil almaz ve hiçbir şey var olamaz."
+    "cevap": "Hareket, bir dengenin bozulmasıyla başlar. Her madde içinde iki zıt güç dengeli bir şekilde bir arada durur. Dışarıdan gelen bir etki bu dengeyi bozar; bozulan denge kendini yeniden kurmaya çalışır ve bu çaba sırasında hareket oluşur. Düalite prensibi ve değer farklanması olarak adlandırılan bu mekanizma tüm madde hareketlerinin temelinde yatar. Bu mekanizma olmadan madde hareketsiz kalır, hareketsiz madde de şekil almaz ve hiçbir şey var olamaz.",
+    "soru_en": "How does \"movement\" arise in matter?",
+    "cevap_en": "Movement begins with the disturbance of a balance. Within every matter, two opposing forces stand together in balance. An influence coming from outside disturbs this balance; the disturbed balance tries to re-establish itself, and during this effort movement arises. This mechanism, called the principle of duality and value differentiation, lies at the foundation of all movements of matter. Without this mechanism matter remains motionless, motionless matter takes no form, and nothing can exist."
   },
   {
     "no": 37,
     "kat": "MADDE",
     "soru": "Madde zinciri nedir?",
-    "cevap": "Asli maddeden başlayıp bilinen en gelişmiş madde yapılarına kadar uzanan sonsuz halkalar dizisidir. Her halka bir öncekinden daha gelişmiş ve mudildir. Aşağıda hareketsiz asli madde vardır; yukarıda inanılmaz karmaşıklıktaki madde kombinasyonları. İnsan duyuları bu zincirin yalnızca ortasındaki birkaç halkayı algılayabilir; hem alttaki hem üstteki halkalar insan idrakinin dışındadır. Madde zinciri kâinatımızın tüm fiziksel ve fizik ötesi gerçekliğini kapsar."
+    "cevap": "Asli maddeden başlayıp bilinen en gelişmiş madde yapılarına kadar uzanan sonsuz halkalar dizisidir. Her halka bir öncekinden daha gelişmiş ve mudildir. Aşağıda hareketsiz asli madde vardır; yukarıda inanılmaz karmaşıklıktaki madde kombinasyonları. İnsan duyuları bu zincirin yalnızca ortasındaki birkaç halkayı algılayabilir; hem alttaki hem üstteki halkalar insan idrakinin dışındadır. Madde zinciri kâinatımızın tüm fiziksel ve fizik ötesi gerçekliğini kapsar.",
+    "soru_en": "What is the chain of matter?",
+    "cevap_en": "It is an infinite series of links extending from primordial matter to the most developed known matter structures. Each link is more developed and complex than the one before. At the bottom is motionless primordial matter; at the top are matter combinations of incredible complexity. The human senses can perceive only a few links in the middle of this chain; both the links below and those above lie outside human comprehension. The matter chain encompasses all the physical and metaphysical reality of our universe."
   },
   {
     "no": 38,
     "kat": "MADDE",
     "soru": "Maddenin insanlar tarafından idrak edilemeyen seviyeleri var mıdır?",
-    "cevap": "Hem altta hem üstte var. Altta, asli maddeye yakın o kadar az hareket içeren maddeler var ki hiçbir insan aleti onları ölçemez. Üstte ise o kadar ince ve karmaşık maddeler var ki yine insan aletleri onlara ulaşamaz. Düşünce titreşimleri, sempati enerjileri, sevgi dalgaları, ilham akışları bunların bir bölümüdür. İnsanların \"manevi\" ya da \"ruhsal\" dediği pek çok şey aslında bu bilinmeyen madde seviyelerinin tezahürleridir."
+    "cevap": "Hem altta hem üstte var. Altta, asli maddeye yakın o kadar az hareket içeren maddeler var ki hiçbir insan aleti onları ölçemez. Üstte ise o kadar ince ve karmaşık maddeler var ki yine insan aletleri onlara ulaşamaz. Düşünce titreşimleri, sempati enerjileri, sevgi dalgaları, ilham akışları bunların bir bölümüdür. İnsanların \"manevi\" ya da \"ruhsal\" dediği pek çok şey aslında bu bilinmeyen madde seviyelerinin tezahürleridir.",
+    "soru_en": "Are there levels of matter that cannot be perceived by humans?",
+    "cevap_en": "There are, both below and above. Below, near primordial matter, there are matters containing so little movement that no human instrument can measure them. Above, there are matters so fine and complex that again human instruments cannot reach them. Thought vibrations, sympathy energies, waves of love, flows of inspiration are some of these. Much of what humans call \"spiritual\" or \"of the soul\" is in fact the manifestation of these unknown levels of matter."
   },
   {
     "no": 39,
     "kat": "MADDE",
     "soru": "Perispri nedir?",
-    "cevap": "Perispri, insan bedenini çevreleyen ve genellikle \"enerji bedeni\" ya da \"ince beden\" olarak da adlandırılan bir madde halidir. INK'a göre perispri, insan bedeninin manyetik alanıdır. Bilinen fiziksel beden dışındaki bu ince yapı, varlığın ruhla bağlantısını sağlayan aracı bir katmandır. Spiritüalist geleneklerde asırlardan beri bahsedilen perispri, INK'a göre gizemli bir şey değil; insanlarca henüz tam olarak tanınmayan ince bir madde halidir."
+    "cevap": "Perispri, insan bedenini çevreleyen ve genellikle \"enerji bedeni\" ya da \"ince beden\" olarak da adlandırılan bir madde halidir. INK'a göre perispri, insan bedeninin manyetik alanıdır. Bilinen fiziksel beden dışındaki bu ince yapı, varlığın ruhla bağlantısını sağlayan aracı bir katmandır. Spiritüalist geleneklerde asırlardan beri bahsedilen perispri, INK'a göre gizemli bir şey değil; insanlarca henüz tam olarak tanınmayan ince bir madde halidir.",
+    "soru_en": "What is the perispirit?",
+    "cevap_en": "The perispirit is a state of matter surrounding the human body, often also called the \"energy body\" or \"fine body.\" According to INK, the perispirit is the magnetic field of the human body. This fine structure, outside the known physical body, is an intermediary layer providing the being's connection with the spirit. The perispirit, spoken of for centuries in spiritualist traditions, is according to INK not something mysterious; it is a fine state of matter not yet fully recognized by humans."
   },
   {
     "no": 40,
     "kat": "MADDE",
     "soru": "Manyetik alan nedir ve maddeyle ilişkisi nedir?",
-    "cevap": "Manyetik alan, her madde varlığının etrafına yaydığı etki alanıdır. Her madde, çevresindeki diğer maddelerle bu alanlar aracılığıyla etkileşir. INK'a göre beden bedene, dünya dünyaya, güneş sistemi güneş sistemine, kâinat genelinde üniteye kadar uzanan manyetik alan sentezleri mevcuttur. Varlıklar birbirlerini ve maddelerle olan ilişkilerini büyük ölçüde bu manyetik alanlar aracılığıyla yürütürler. Perispri de insanın kişisel manyetik alanından başka bir şey değildir."
+    "cevap": "Manyetik alan, her madde varlığının etrafına yaydığı etki alanıdır. Her madde, çevresindeki diğer maddelerle bu alanlar aracılığıyla etkileşir. INK'a göre beden bedene, dünya dünyaya, güneş sistemi güneş sistemine, kâinat genelinde üniteye kadar uzanan manyetik alan sentezleri mevcuttur. Varlıklar birbirlerini ve maddelerle olan ilişkilerini büyük ölçüde bu manyetik alanlar aracılığıyla yürütürler. Perispri de insanın kişisel manyetik alanından başka bir şey değildir.",
+    "soru_en": "What is a magnetic field, and what is its relationship with matter?",
+    "cevap_en": "A magnetic field is the field of influence each material being emits around itself. Every matter interacts with the other matters around it through these fields. According to INK, there exist magnetic field syntheses extending from body to body, from world to world, from solar system to solar system, all the way to the unit across the universe. Beings conduct their relationships with one another and with matter largely through these magnetic fields. The perispirit is nothing other than a person's individual magnetic field."
   },
   {
     "no": 41,
     "kat": "MADDE",
     "soru": "Dünyamızın maddesi evrensel madde zincirinde nerede yer alır?",
-    "cevap": "Orta seviyede, fakat özel bir konumda. Kâinat madde zincirinin ne en altındayız ne de en üstünde. Bilinen elementler bu zincirin insan algısının kavrayabildiği bölümünü oluşturur. Ancak dünya, güneş sisteminin diğer gezegenlerine kıyasla en karmaşık ve gelişmiş madde yapılarını barındıran özel bir yerdir. Bu özelliği dünyayı güneş sisteminin en yüksek tekâmül sahası yapar. İnsan beyni, dünyanın sunduğu bu özel madde olanaklarıyla çalışır."
+    "cevap": "Orta seviyede, fakat özel bir konumda. Kâinat madde zincirinin ne en altındayız ne de en üstünde. Bilinen elementler bu zincirin insan algısının kavrayabildiği bölümünü oluşturur. Ancak dünya, güneş sisteminin diğer gezegenlerine kıyasla en karmaşık ve gelişmiş madde yapılarını barındıran özel bir yerdir. Bu özelliği dünyayı güneş sisteminin en yüksek tekâmül sahası yapar. İnsan beyni, dünyanın sunduğu bu özel madde olanaklarıyla çalışır.",
+    "soru_en": "Where does the matter of our world stand in the universal matter chain?",
+    "cevap_en": "At a middle level, but in a special position. We are neither at the very bottom nor at the very top of the universal matter chain. The known elements make up the portion of this chain perceptible to human perception. However, the Earth is a special place that harbors the most complex and developed matter structures compared to the other planets of the solar system. This property makes Earth the highest field of evolution in the solar system. The human brain works with these special matter possibilities the Earth offers."
   },
   {
     "no": 42,
     "kat": "MADDE",
     "soru": "Maddenin en yüksek formu nedir?",
-    "cevap": "INK'a göre madde zincirinin en üst halkalarında, insan idrakinin kavrayamayacağı inanılmaz karmaşıklıkta kombinasyonlar yer alır. İnsan bilincinin, duygularının, sezgilerinin ve yüksek düşüncelerinin temelinde bu üst halkalardaki madde enerjileri vardır. Bunların ötesinde ise vazife plânındaki varlıkların kullandığı çok daha yüksek madde halleri mevcuttur. Maddenin en üst formu, kâinatın yönetimiyle doğrudan ilgili olan ünite düzeyindeki madde yapısıdır."
+    "cevap": "INK'a göre madde zincirinin en üst halkalarında, insan idrakinin kavrayamayacağı inanılmaz karmaşıklıkta kombinasyonlar yer alır. İnsan bilincinin, duygularının, sezgilerinin ve yüksek düşüncelerinin temelinde bu üst halkalardaki madde enerjileri vardır. Bunların ötesinde ise vazife plânındaki varlıkların kullandığı çok daha yüksek madde halleri mevcuttur. Maddenin en üst formu, kâinatın yönetimiyle doğrudan ilgili olan ünite düzeyindeki madde yapısıdır.",
+    "soru_en": "What is the highest form of matter?",
+    "cevap_en": "According to INK, at the topmost links of the matter chain lie combinations of incredible complexity that human comprehension cannot grasp. At the foundation of human consciousness, emotions, intuitions, and higher thoughts lie the matter energies in these upper links. Beyond these are much higher states of matter used by the beings in the Mission Plan. The highest form of matter is the matter structure at the unit level, which is directly concerned with the governance of the universe."
   },
   {
     "no": 43,
     "kat": "MADDE",
     "soru": "Maddenin en düşük formu nedir?",
-    "cevap": "Asli madde, maddenin en düşük formudur. Hiçbir hareket, hiçbir şekil, hiçbir özellik yoktur. Buradan bakıldığında en gelişmiş madde formlarına ne kadar uzun bir mesafe olduğu anlaşılır. Aradaki bu sonsuz mesafe, kâinatımızın inkişafının büyüklüğünü gösterir. Asli madde zincirin başlangıç noktasıdır; madde oradan yola çıkarak sayısız inkişaf adımı atarak günümüzdeki görünümlerine ulaşmıştır."
+    "cevap": "Asli madde, maddenin en düşük formudur. Hiçbir hareket, hiçbir şekil, hiçbir özellik yoktur. Buradan bakıldığında en gelişmiş madde formlarına ne kadar uzun bir mesafe olduğu anlaşılır. Aradaki bu sonsuz mesafe, kâinatımızın inkişafının büyüklüğünü gösterir. Asli madde zincirin başlangıç noktasıdır; madde oradan yola çıkarak sayısız inkişaf adımı atarak günümüzdeki görünümlerine ulaşmıştır.",
+    "soru_en": "What is the lowest form of matter?",
+    "cevap_en": "Primordial matter is the lowest form of matter. There is no movement, no form, no property. From this vantage one understands how long a distance there is to the most developed forms of matter. This infinite distance in between shows the magnitude of our universe's development. Primordial matter is the starting point of the chain; from there matter set out and, taking countless developmental steps, reached its present appearances."
   },
   {
     "no": 44,
     "kat": "MADDE",
     "soru": "\"Seyyal madde\" nedir?",
-    "cevap": "\"Seyyal\" kelimesi akışkan ve ince anlamına gelir. Seyyal madde, parçacıkları birbirine gevşek bağlı olan, dolayısıyla zayıf etkilerle bile kolayca harekete geçebilen maddelerdir. Hava, ışık, elektromanyetik dalgalar seyyal madde örnekleri arasında sayılabilir. Madde seyyalleştikçe daha fazla etki alıp verir, çevresiyle daha çok etkileşir. Duygu titreşimleri ve düşünce dalgaları ise insanların henüz tam olarak anlayamadığı seyyal madde türlerindendir."
+    "cevap": "\"Seyyal\" kelimesi akışkan ve ince anlamına gelir. Seyyal madde, parçacıkları birbirine gevşek bağlı olan, dolayısıyla zayıf etkilerle bile kolayca harekete geçebilen maddelerdir. Hava, ışık, elektromanyetik dalgalar seyyal madde örnekleri arasında sayılabilir. Madde seyyalleştikçe daha fazla etki alıp verir, çevresiyle daha çok etkileşir. Duygu titreşimleri ve düşünce dalgaları ise insanların henüz tam olarak anlayamadığı seyyal madde türlerindendir.",
+    "soru_en": "What is \"fluid matter\" (seyyal matter)?",
+    "cevap_en": "The word \"seyyal\" means fluid and fine. Fluid matter is matter whose particles are loosely bound to one another, and which can therefore easily be set in motion even by weak influences. Air, light, and electromagnetic waves may be counted among examples of fluid matter. The more fluid matter becomes, the more influence it gives and receives, and the more it interacts with its surroundings. Emotional vibrations and thought waves are among the types of fluid matter humans do not yet fully understand."
   },
   {
     "no": 45,
     "kat": "MADDE",
     "soru": "Maddenin \"tezahürü\" ne anlama gelir?",
-    "cevap": "\"Tezahür\" ortaya çıkmak, görünür hale gelmek demektir. Bir maddenin tezahürü, onun çevresindeki diğer maddelerle etkileşime girerek varlığını belli etmesidir. Madde ne kadar çok etki alıp verebiliyorsa, o kadar fazla tezahür gösteriyor demektir. Hiç etki almayan ya da vermeyen madde tezahür etmiyor; yani var olduğunu hissettiremiyor demektir. Bütün görünürlük, bütün varoluş, maddeler arası etkileşimden ibarettir. Bu yüzden tezahür etmek var olmakla eşdeğerdir."
+    "cevap": "\"Tezahür\" ortaya çıkmak, görünür hale gelmek demektir. Bir maddenin tezahürü, onun çevresindeki diğer maddelerle etkileşime girerek varlığını belli etmesidir. Madde ne kadar çok etki alıp verebiliyorsa, o kadar fazla tezahür gösteriyor demektir. Hiç etki almayan ya da vermeyen madde tezahür etmiyor; yani var olduğunu hissettiremiyor demektir. Bütün görünürlük, bütün varoluş, maddeler arası etkileşimden ibarettir. Bu yüzden tezahür etmek var olmakla eşdeğerdir.",
+    "soru_en": "What does the \"manifestation\" of matter mean?",
+    "cevap_en": "\"Manifestation\" means to emerge, to become visible. The manifestation of a matter is its making its existence felt by entering into interaction with the other matters around it. The more influence a matter can give and receive, the more manifestation it shows. Matter that receives or gives no influence is not manifesting; that is, it cannot make its existence felt. All visibility, all existence, consists of interaction among matters. For this reason, to manifest is equivalent to existing."
   },
   {
     "no": 46,
     "kat": "MADDE",
     "soru": "Bir madde neden başka maddelerle etkileşir?",
-    "cevap": "Çünkü tüm maddeler üst bir güç tarafından birbirleriyle ilişki kurmaya yönlendirilmektedir. Ruhların tekâmül ihtiyaçları bu etkileşimi zorunlu kılar; ruhlar kâinat maddesi üzerinde etki yaratarak ihtiyaçlarını giderirler. Bu süreçte maddeler kaçınılmaz olarak birbirleriyle etkileşime girer. Fiziksel bir neden de mevcuttur: Her madde, manyetik alanıyla çevresini etkiler ve çevresinden etkilenir. Bu çift yönlü etkileşim, kâinatın temel dinamiğidir."
+    "cevap": "Çünkü tüm maddeler üst bir güç tarafından birbirleriyle ilişki kurmaya yönlendirilmektedir. Ruhların tekâmül ihtiyaçları bu etkileşimi zorunlu kılar; ruhlar kâinat maddesi üzerinde etki yaratarak ihtiyaçlarını giderirler. Bu süreçte maddeler kaçınılmaz olarak birbirleriyle etkileşime girer. Fiziksel bir neden de mevcuttur: Her madde, manyetik alanıyla çevresini etkiler ve çevresinden etkilenir. Bu çift yönlü etkileşim, kâinatın temel dinamiğidir.",
+    "soru_en": "Why does one matter interact with other matters?",
+    "cevap_en": "Because all matters are directed by a higher power to establish relationships with one another. The evolutionary needs of spirits make this interaction obligatory; spirits meet their needs by creating influence upon the matter of the universe. In this process matters inevitably enter into interaction with one another. There is also a physical reason: every matter affects its surroundings with its magnetic field and is affected by its surroundings. This two-way interaction is the fundamental dynamic of the universe."
   },
   {
     "no": 47,
     "kat": "MADDE",
     "soru": "Maddenin dağılması ne anlama gelir?",
-    "cevap": "Bir madde kombinezonu, ona hizmet eden ruhun ihtiyacı kalmadığında dağılır. Ruh o madde düzenlemesini artık kullanmıyorsa, onu bir arada tutan tesirler de kesilir ve madde parçaları ayrılır. Buna \"maddenin ölümü\" diyebiliriz. Ancak bu gerçek anlamda bir yok oluş değildir; maddeler başka kombinasyonların parçası olmak üzere serbest kalır. Tıpkı bir binanın yıkılmasında tuğlaların yok olmaması gibi. Madde dönüşür, yok olmaz."
+    "cevap": "Bir madde kombinezonu, ona hizmet eden ruhun ihtiyacı kalmadığında dağılır. Ruh o madde düzenlemesini artık kullanmıyorsa, onu bir arada tutan tesirler de kesilir ve madde parçaları ayrılır. Buna \"maddenin ölümü\" diyebiliriz. Ancak bu gerçek anlamda bir yok oluş değildir; maddeler başka kombinasyonların parçası olmak üzere serbest kalır. Tıpkı bir binanın yıkılmasında tuğlaların yok olmaması gibi. Madde dönüşür, yok olmaz.",
+    "soru_en": "What does the dispersal of matter mean?",
+    "cevap_en": "A matter combination disperses when the spirit it serves no longer needs it. If the spirit is no longer using that arrangement of matter, the influences holding it together are also cut off, and the matter parts separate. We may call this \"the death of matter.\" However, this is not a true annihilation; the matters are freed to become parts of other combinations. Just as the bricks are not annihilated when a building is demolished. Matter transforms; it does not vanish."
   },
   {
     "no": 48,
     "kat": "MADDE",
     "soru": "Maddenin yeniden bir araya gelmesi mümkün müdür?",
-    "cevap": "Evet. Dağılan bir madde kombinezonu, başka bir ruhun ihtiyacına göre yeni bir düzenlemeye katılabilir. Kâinatta hiçbir madde parçası işe yaramaz hale gelmez. Besin döngüsü bunu en somut biçimde gösterir: Bir canlının bedenini oluşturan maddeler öldükten sonra toprağa karışır, oradan bitkilere geçer, bitkilerden başka canlılara. Madde sürekli yeniden düzenlenir; bu sonsuz dönüşüm kâinatın temel çalışma biçimidir."
+    "cevap": "Evet. Dağılan bir madde kombinezonu, başka bir ruhun ihtiyacına göre yeni bir düzenlemeye katılabilir. Kâinatta hiçbir madde parçası işe yaramaz hale gelmez. Besin döngüsü bunu en somut biçimde gösterir: Bir canlının bedenini oluşturan maddeler öldükten sonra toprağa karışır, oradan bitkilere geçer, bitkilerden başka canlılara. Madde sürekli yeniden düzenlenir; bu sonsuz dönüşüm kâinatın temel çalışma biçimidir.",
+    "soru_en": "Is it possible for matter to come together again?",
+    "cevap_en": "Yes. A dispersed matter combination can join a new arrangement according to the need of another spirit. In the universe no piece of matter ever becomes useless. The food cycle shows this most concretely: the matters making up the body of a living being mix into the soil after death, pass from there into plants, and from plants into other living beings. Matter is constantly rearranged; this endless transformation is the fundamental working manner of the universe."
   },
   {
     "no": 49,
     "kat": "MADDE",
     "soru": "Maddeler birbirinden tamamen bağımsız mıdır?",
-    "cevap": "Hayır. Kâinattaki hiçbir madde diğerinden tamamen bağımsız değildir. Her madde, dolaylı ya da doğrudan, diğer maddelerle sürekli bir etkileşim içindedir. Üst kademeden gelen tesirler tüm maddelere ulaşır; hiçbir zerrenin bu tesirlerden azade olması mümkün değildir. Tek bir kuş tüyünün düşmesi bile kâinat düzeninin bilgisi dahilindedir. Bu sonsuz bağlantısallık, kâinatın büyük ahengini mümkün kılar. Herhangi bir yerdeki hareket tüm sistemi etkiler."
+    "cevap": "Hayır. Kâinattaki hiçbir madde diğerinden tamamen bağımsız değildir. Her madde, dolaylı ya da doğrudan, diğer maddelerle sürekli bir etkileşim içindedir. Üst kademeden gelen tesirler tüm maddelere ulaşır; hiçbir zerrenin bu tesirlerden azade olması mümkün değildir. Tek bir kuş tüyünün düşmesi bile kâinat düzeninin bilgisi dahilindedir. Bu sonsuz bağlantısallık, kâinatın büyük ahengini mümkün kılar. Herhangi bir yerdeki hareket tüm sistemi etkiler.",
+    "soru_en": "Are matters completely independent of one another?",
+    "cevap_en": "No. No matter in the universe is completely independent of another. Every matter is in constant interaction, directly or indirectly, with other matters. Influences coming from the higher level reach all matters; it is impossible for any particle to be exempt from these influences. Even the falling of a single bird's feather is within the knowledge of the universal order. This infinite interconnectedness makes the great harmony of the universe possible. Movement anywhere affects the whole system."
   },
   {
     "no": 50,
     "kat": "MADDE",
     "soru": "\"Tesir\" nedir ve maddede nasıl çalışır?",
-    "cevap": "Tesir, bir maddeden diğerine geçen etki, güç, yönlendirme demektir. Kâinatta her hareket, her değişim bir tesirin sonucudur. Tesirler yukarıdan aşağıya, yani ünite ve yüksek prensipler kademesinden madde kombinezolarına doğru akar. Madde bu tesirleri alır ve kendi yapısına göre tepki gösterir. Bu tepki de bir tesir olarak başkalarına geçer. Tüm kâinat bu sonsuz tesir akışıyla çalışır ve en küçük zerreye kadar uzanır."
+    "cevap": "Tesir, bir maddeden diğerine geçen etki, güç, yönlendirme demektir. Kâinatta her hareket, her değişim bir tesirin sonucudur. Tesirler yukarıdan aşağıya, yani ünite ve yüksek prensipler kademesinden madde kombinezolarına doğru akar. Madde bu tesirleri alır ve kendi yapısına göre tepki gösterir. Bu tepki de bir tesir olarak başkalarına geçer. Tüm kâinat bu sonsuz tesir akışıyla çalışır ve en küçük zerreye kadar uzanır.",
+    "soru_en": "What is \"influence\" (tesir), and how does it work in matter?",
+    "cevap_en": "Influence means the effect, force, or direction passing from one matter to another. In the universe, every movement, every change is the result of an influence. Influences flow from top to bottom, that is, from the level of the unit and higher principles toward matter combinations. Matter receives these influences and reacts according to its own structure. This reaction in turn passes to others as an influence. The whole universe works through this endless flow of influence, extending down to the smallest particle."
   },
   {
     "no": 51,
