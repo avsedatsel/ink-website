@@ -9,7 +9,9 @@ export default function Sorular() {
   const [acikBolum, setAcikBolum] = useState(null)
   const [acikSoru, setAcikSoru] = useState(null)
 
-  // Bölümlere grupla
+  const getSoru = (s) => (lang === 'en' && s.soru_en) ? s.soru_en : s.soru
+  const getCevap = (s) => (lang === 'en' && s.cevap_en) ? s.cevap_en : s.cevap
+
   const bolumler = useMemo(() => {
     const grp = {}
     sorularData.forEach(s => {
@@ -19,13 +21,13 @@ export default function Sorular() {
     return Object.entries(grp)
   }, [])
 
-  // Arama filtresi
   const filtreliSorular = useMemo(() => {
     if (!arama.trim()) return null
     const q = arama.toLowerCase()
-    return sorularData.filter(s =>
-      s.soru.toLowerCase().includes(q) || s.cevap.toLowerCase().includes(q)
-    )
+    return sorularData.filter(s => {
+      const sr = ((s.soru || '') + (s.cevap || '') + (s.soru_en || '') + (s.cevap_en || '')).toLowerCase()
+      return sr.includes(q)
+    })
   }, [arama])
 
   const toggleBolum = (idx) => setAcikBolum(acikBolum === idx ? null : idx)
@@ -49,7 +51,6 @@ export default function Sorular() {
           />
         </div>
 
-        {/* ARAMA SONUÇLARI */}
         {filtreliSorular && (
           <div>
             <p style={{fontSize:12,color:'var(--text3)',marginBottom:16,fontFamily:'system-ui'}}>
@@ -60,23 +61,22 @@ export default function Sorular() {
                 <div className="soru-item">
                   <div className="soru-q" onClick={() => toggleSoru(s.no)}>
                     <span className="soru-no">{s.no}.</span>
-                    <span className="soru-text">{s.soru}</span>
+                    <span className="soru-text">{getSoru(s)}</span>
                     <span className={`soru-chevron${acikSoru===s.no?' open':''}`}>▾</span>
                   </div>
-                  <div className={`soru-cevap${acikSoru===s.no?' open':''}`}>{s.cevap}</div>
+                  <div className={`soru-cevap${acikSoru===s.no?' open':''}`}>{getCevap(s)}</div>
                 </div>
               </div>
             ))}
           </div>
         )}
 
-        {/* BÖLÜM LİSTESİ */}
         {!filtreliSorular && bolumler.map(([kat, sorular], idx) => (
           <div key={kat} className="bolum-group">
             <div className="bolum-header" onClick={() => toggleBolum(idx)}>
               <span className="bolum-name">{kat}</span>
               <span style={{display:'flex',gap:10,alignItems:'center'}}>
-                <span className="bolum-count">{sorular.length} soru</span>
+                <span className="bolum-count">{sorular.length} {lang==='tr'?'soru':'questions'}</span>
                 <span className={`bolum-arrow${acikBolum===idx?' open':''}`}>▼</span>
               </span>
             </div>
@@ -85,10 +85,10 @@ export default function Sorular() {
                 <div key={s.no} className="soru-item">
                   <div className="soru-q" onClick={() => toggleSoru(s.no)}>
                     <span className="soru-no">{s.no}.</span>
-                    <span className="soru-text">{s.soru}</span>
+                    <span className="soru-text">{getSoru(s)}</span>
                     <span className={`soru-chevron${acikSoru===s.no?' open':''}`}>▾</span>
                   </div>
-                  <div className={`soru-cevap${acikSoru===s.no?' open':''}`}>{s.cevap}</div>
+                  <div className={`soru-cevap${acikSoru===s.no?' open':''}`}>{getCevap(s)}</div>
                 </div>
               ))}
             </div>
