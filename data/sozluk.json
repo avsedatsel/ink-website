@@ -1,182 +1,272 @@
 [
   {
     "terim": "Sedat Sel",
-    "tanim": "Bu sözlük, INK sistemine özgü ya da INK'ta kendine özgü bir anlam kazanan temel kavramları kapsayan bir başvuru kaynağıdır. Her kavram, 1000 soru boyunca geçtiği bağlamı göz önünde bulundurarak günlük Türkçeyle açıklanmıştır. Sözlük, kitabın herhangi bir bölümüyle birlikte kullanılabilir; bir kavrama takıldığınızda buraya dönebilirsiniz."
+    "tanim": "Bu sözlük, INK sistemine özgü ya da INK'ta kendine özgü bir anlam kazanan temel kavramları kapsayan bir başvuru kaynağıdır. Her kavram, 1000 soru boyunca geçtiği bağlamı göz önünde bulundurarak günlük Türkçeyle açıklanmıştır. Sözlük, kitabın herhangi bir bölümüyle birlikte kullanılabilir; bir kavrama takıldığınızda buraya dönebilirsiniz.",
+    "terim_en": "Sedat Sel",
+    "tanim_en": "This glossary is a reference resource covering the core concepts specific to the INK system, or concepts that acquire a distinct meaning within INK. Each concept is explained in plain language, taking into account the context in which it appears across the 1000 questions. The glossary can be used alongside any part of the book; whenever you get stuck on a concept, you can return here."
   },
   {
     "terim": "Aktif Tekâmül",
-    "tanim": "İnsan bedenine kavuşulduğunda başlayan, özgür irade ve vicdan mekanizmasının devreye girdiği bilinçli tekâmül evresidir. Pasif tekâmülden farklı olarak burada ruh, kendi kararlarıyla sürecine bizzat katkıda bulunur. Her doğru seçim aktif tekâmülü hızlandırır; yanlış seçimler ise yavaşlatır ama durduramaz."
+    "tanim": "İnsan bedenine kavuşulduğunda başlayan, özgür irade ve vicdan mekanizmasının devreye girdiği bilinçli tekâmül evresidir. Pasif tekâmülden farklı olarak burada ruh, kendi kararlarıyla sürecine bizzat katkıda bulunur. Her doğru seçim aktif tekâmülü hızlandırır; yanlış seçimler ise yavaşlatır ama durduramaz.",
+    "terim_en": "Active Evolution",
+    "tanim_en": "The conscious phase of evolution that begins when the human body is attained, in which free will and the conscience mechanism come into play. Unlike passive evolution, here the spirit contributes to its own process through its own decisions. Every right choice accelerates active evolution; wrong choices slow it down but cannot stop it."
   },
   {
     "terim": "Arasat",
-    "tanim": "Spatyomun belirli bir katmanını ya da tamamını tanımlamak için kullanılan terimdir. Ölüm sonrasında öz varlığın ilk geçtiği, muhasebe ve bekleme sürecinin yaşandığı geçiş bölgesidir. İslam geleneğindeki arasat kavramıyla örtüşen yönleri olmakla birlikte INK'ta ebedi bir bekleme alanı değil, tekâmülün devam ettiği dinamik bir geçiş kademesidir."
+    "tanim": "Spatyomun belirli bir katmanını ya da tamamını tanımlamak için kullanılan terimdir. Ölüm sonrasında öz varlığın ilk geçtiği, muhasebe ve bekleme sürecinin yaşandığı geçiş bölgesidir. İslam geleneğindeki arasat kavramıyla örtüşen yönleri olmakla birlikte INK'ta ebedi bir bekleme alanı değil, tekâmülün devam ettiği dinamik bir geçiş kademesidir.",
+    "terim_en": "Arasat (Intermediate Realm)",
+    "tanim_en": "A term used to describe a particular layer of the spatyom, or the whole of it. It is the transitional zone the essential being first passes through after death, where the process of accounting and waiting takes place. While it has aspects overlapping with the concept of 'arasat' in the Islamic tradition, in INK it is not an eternal waiting area but a dynamic transitional stage where evolution continues."
   },
   {
     "terim": "Asli İcaplar",
-    "tanim": "Asli Prensip'ten gelen ve kâinatın varoluş çerçevesini belirleyen temel gereklilikler ve yasalardır. Değiştirilemez, ihlal edilemez kurallardır. Fizik yasaları (yer çekimi, elektromanyetizm) asli icapların madde düzeyindeki tezahürleridir; ahlak yasaları ise ruh plânındaki yansımalarıdır."
+    "tanim": "Asli Prensip'ten gelen ve kâinatın varoluş çerçevesini belirleyen temel gereklilikler ve yasalardır. Değiştirilemez, ihlal edilemez kurallardır. Fizik yasaları (yer çekimi, elektromanyetizm) asli icapların madde düzeyindeki tezahürleridir; ahlak yasaları ise ruh plânındaki yansımalarıdır.",
+    "terim_en": "Primordial Requirements",
+    "tanim_en": "The fundamental requirements and laws that come from the Primordial Principle and define the framework of the universe's existence. They are unchangeable, inviolable rules. The laws of physics (gravity, electromagnetism) are the manifestations of these primordial requirements at the level of matter; moral laws are their reflections at the level of spirit."
   },
   {
     "terim": "Asli Tesir",
-    "tanim": "Doğrudan üniteden ya da yüksek vazife plânından gelen ve bir varlığın temel tekâmül çizgisini belirleyen köklü yönlendirmelerdir. Tali tesirlerden farkı, günlük ayrıntıları değil; hayatın büyük dönüm noktalarını şekillendirmesidir."
+    "tanim": "Doğrudan üniteden ya da yüksek vazife plânından gelen ve bir varlığın temel tekâmül çizgisini belirleyen köklü yönlendirmelerdir. Tali tesirlerden farkı, günlük ayrıntıları değil; hayatın büyük dönüm noktalarını şekillendirmesidir.",
+    "terim_en": "Primary Influence",
+    "tanim_en": "The deep-rooted directions that come directly from the unit or from the high plane of duty and determine a being's fundamental line of evolution. Their difference from secondary influences is that they shape the great turning points of life, not the daily details."
   },
   {
     "terim": "Asli Zaman Kadroları",
-    "tanim": "Kader plânı içinde, belirli olayların gerçekleşmesi için öngörülmüş zaman pencerelerini ifade eden INK'a özgü bir kavramdır. Her dönüm noktasının belirli bir zaman çerçevesi içinde gerçekleşmesi planlanmıştır; bu pencere kaçırılırsa kader mekanizması alternatif yollar devreye sokar."
+    "tanim": "Kader plânı içinde, belirli olayların gerçekleşmesi için öngörülmüş zaman pencerelerini ifade eden INK'a özgü bir kavramdır. Her dönüm noktasının belirli bir zaman çerçevesi içinde gerçekleşmesi planlanmıştır; bu pencere kaçırılırsa kader mekanizması alternatif yollar devreye sokar.",
+    "terim_en": "Primary Time Frames",
+    "tanim_en": "A concept specific to INK expressing the time windows foreseen within the plan of fate for certain events to occur. Each turning point is planned to happen within a particular time frame; if this window is missed, the fate mechanism activates alternative paths."
   },
   {
     "terim": "Cevher",
-    "tanim": "Her kâinatın kendine özgü temel yapı malzemesidir. Bizim kâinatımızın cevheri, başka kâinatlarınkinden tamamen farklı olabilir. Ruhlar ise kâinat cevherinden bağımsız, ebedi bir gerçekliktir; tekâmül için hangi kâinatın cevherini kullandıklarına bakılmaksızın var olmaya devam ederler."
+    "tanim": "Her kâinatın kendine özgü temel yapı malzemesidir. Bizim kâinatımızın cevheri, başka kâinatlarınkinden tamamen farklı olabilir. Ruhlar ise kâinat cevherinden bağımsız, ebedi bir gerçekliktir; tekâmül için hangi kâinatın cevherini kullandıklarına bakılmaksızın var olmaya devam ederler.",
+    "terim_en": "Substance (Essence)",
+    "tanim_en": "The fundamental building material unique to each universe. The substance of our universe may be completely different from that of other universes. Spirits, however, are an eternal reality independent of universe-substance; they continue to exist regardless of which universe's substance they use for evolution."
   },
   {
     "terim": "Fert Plânı",
-    "tanim": "Her bireyin ölüm sonrasında spatyomda muhasebe dönemini tamamlamasının ardından, yeni bir dünya hayatı için hazırlanan kişisel tekâmül çerçevesidir. Hangi aileye, hangi coğrafyaya ve hangi dönemde doğulacağını, hayatın temel dönüm noktalarını ve geliştirilmesi gereken kapasiteleri kapsar. Tesirler sistemi aracılığıyla hayata geçirilir."
+    "tanim": "Her bireyin ölüm sonrasında spatyomda muhasebe dönemini tamamlamasının ardından, yeni bir dünya hayatı için hazırlanan kişisel tekâmül çerçevesidir. Hangi aileye, hangi coğrafyaya ve hangi dönemde doğulacağını, hayatın temel dönüm noktalarını ve geliştirilmesi gereken kapasiteleri kapsar. Tesirler sistemi aracılığıyla hayata geçirilir.",
+    "terim_en": "Individual Plan",
+    "tanim_en": "The personal evolutionary framework prepared for a new earthly life after each individual completes the period of accounting in the spatyom following death. It encompasses which family, geography, and era one will be born into, the fundamental turning points of life, and the capacities to be developed. It is implemented through the system of influences."
   },
   {
     "terim": "İdrak",
-    "tanim": "Yalnızca bilgi edinmek değil; edinilen bilgiyi yaşama sindirmek ve onunla dönüşmektir. INK'ta idrak, tekâmülün gerçek ölçütüdür; çok şey bilen ama yaşamayan biri idrak etmiş sayılmaz. Tekâmül geliştikçe idrak derinleşir, sezgiyle bütünleşir ve giderek daha hızlı işlemeye başlar."
+    "tanim": "Yalnızca bilgi edinmek değil; edinilen bilgiyi yaşama sindirmek ve onunla dönüşmektir. INK'ta idrak, tekâmülün gerçek ölçütüdür; çok şey bilen ama yaşamayan biri idrak etmiş sayılmaz. Tekâmül geliştikçe idrak derinleşir, sezgiyle bütünleşir ve giderek daha hızlı işlemeye başlar.",
+    "terim_en": "Realization (Comprehension)",
+    "tanim_en": "Not merely acquiring knowledge, but absorbing acquired knowledge into life and being transformed by it. In INK, realization is the true measure of evolution; someone who knows much but does not live it is not considered to have realized. As evolution develops, realization deepens, integrates with intuition, and begins to operate ever more swiftly."
   },
   {
     "terim": "İdrak Merkezi",
-    "tanim": "Öz varlığın en derin ve en kalıcı ince madde katmanında yer alan, tüm hayatlar boyunca biriktirilen idrak, sevgi ve tekâmülün özünü saklayan yapıdır. Beden ve beyin değişse de idrak merkezi kalıcıdır; bir sonraki hayata doğuştan gelen derin sezgi ve kapasite olarak taşınır."
+    "tanim": "Öz varlığın en derin ve en kalıcı ince madde katmanında yer alan, tüm hayatlar boyunca biriktirilen idrak, sevgi ve tekâmülün özünü saklayan yapıdır. Beden ve beyin değişse de idrak merkezi kalıcıdır; bir sonraki hayata doğuştan gelen derin sezgi ve kapasite olarak taşınır.",
+    "terim_en": "Center of Realization",
+    "tanim_en": "The structure located in the deepest and most permanent fine-matter layer of the essential being, which stores the essence of all the realization, love, and evolution accumulated across all lifetimes. Though the body and brain change, the center of realization is permanent; it is carried into the next life as innate deep intuition and capacity."
   },
   {
     "terim": "İnkişaf",
-    "tanim": "Maddenin gelişimini ifade eder; asli maddeden başlayarak giderek daha karmaşık ve gelişmiş madde yapılarına doğru ilerlemeyi tanımlar. Tekâmülden farkı şudur: inkişaf maddenin, tekâmül ise ruhun yolculuğudur. İkisi paralel ilerler; ruh tekâmül ettikçe hizmetindeki varlık inkişaf eder."
+    "tanim": "Maddenin gelişimini ifade eder; asli maddeden başlayarak giderek daha karmaşık ve gelişmiş madde yapılarına doğru ilerlemeyi tanımlar. Tekâmülden farkı şudur: inkişaf maddenin, tekâmül ise ruhun yolculuğudur. İkisi paralel ilerler; ruh tekâmül ettikçe hizmetindeki varlık inkişaf eder.",
+    "terim_en": "Development (of Matter)",
+    "tanim_en": "Expresses the development of matter; it describes the progression from primordial matter toward increasingly complex and advanced matter structures. Its difference from evolution is this: development is the journey of matter, evolution is the journey of the spirit. The two proceed in parallel; as the spirit evolves, the being in its service develops."
   },
   {
     "terim": "İnsiyak",
-    "tanim": "İçgüdü anlamına gelir. Hayvan bedenlerindeki tekâmülde belirleyici olan ve bilinçli düşünce gerektirmeyen otomatik tepki sistemidir. İnsan bedeninde de insiyaklar çalışmaya devam eder; ancak artık vicdan ve özgür irade de devreye girmiştir. Tekâmül geliştikçe insiyakların yerini sezgi, sezginin yerini ise idrak alır."
+    "tanim": "İçgüdü anlamına gelir. Hayvan bedenlerindeki tekâmülde belirleyici olan ve bilinçli düşünce gerektirmeyen otomatik tepki sistemidir. İnsan bedeninde de insiyaklar çalışmaya devam eder; ancak artık vicdan ve özgür irade de devreye girmiştir. Tekâmül geliştikçe insiyakların yerini sezgi, sezginin yerini ise idrak alır.",
+    "terim_en": "Instinct",
+    "tanim_en": "Means instinct. The automatic response system that is decisive in evolution within animal bodies and requires no conscious thought. Instincts continue to operate in the human body as well; but now conscience and free will have also come into play. As evolution develops, instinct gives way to intuition, and intuition gives way to realization."
   },
   {
     "terim": "İntibak Mekanizması",
-    "tanim": "Bir varlığın yeni koşullara, deneyimlere ve ortamlara uyum sağlama kapasitesidir. Özellikle ölüm sonrasında spatyoma geçişte ve her yeni bedenlenme başlangıcında kritik bir işlev üstlenir. Bu mekanizma ne kadar gelişmiş ve esnek olursa, tekâmül o kadar akıcı ilerler."
+    "tanim": "Bir varlığın yeni koşullara, deneyimlere ve ortamlara uyum sağlama kapasitesidir. Özellikle ölüm sonrasında spatyoma geçişte ve her yeni bedenlenme başlangıcında kritik bir işlev üstlenir. Bu mekanizma ne kadar gelişmiş ve esnek olursa, tekâmül o kadar akıcı ilerler.",
+    "terim_en": "Adaptation Mechanism",
+    "tanim_en": "A being's capacity to adapt to new conditions, experiences, and environments. It takes on a critical function especially during the transition to the spatyom after death and at the start of each new embodiment. The more developed and flexible this mechanism is, the more smoothly evolution proceeds."
   },
   {
     "terim": "Kâinat",
-    "tanim": "Ruhların tekâmülü için var olan, asli maddenin belirli bir cevherle şekillendiği, başlangıcı ve sonu olan evrensel sahnedir. INK'a göre kâinat tekdir; ama sonsuz sayıda kâinat birbirini izler ya da birbirinden bağımsız olarak var olur. Her ruh, tekâmülünü tamamlayınca bir kâinattan bir sonrakine geçer."
+    "tanim": "Ruhların tekâmülü için var olan, asli maddenin belirli bir cevherle şekillendiği, başlangıcı ve sonu olan evrensel sahnedir. INK'a göre kâinat tekdir; ama sonsuz sayıda kâinat birbirini izler ya da birbirinden bağımsız olarak var olur. Her ruh, tekâmülünü tamamlayınca bir kâinattan bir sonrakine geçer.",
+    "terim_en": "Universe",
+    "tanim_en": "The universal stage that exists for the evolution of spirits, where primordial matter is shaped by a particular substance, with a beginning and an end. According to INK, the universe is singular; but an infinite number of universes follow one another or exist independently of each other. Each spirit, upon completing its evolution, passes from one universe to the next."
   },
   {
     "terim": "Kader Mekanizması",
-    "tanim": "Her varlığın tekâmül ihtiyaçlarına ve liyakatine göre, en uygun deneyimleri en uygun zamanda sunmak amacıyla işleyen evrensel düzenleme sistemidir. Ödül-ceza sistemi değildir; tekâmüle hizmet eden bir fırsat sistemidir. Özgür iradenin katkılarıyla dinamik biçimde şekillenir; statik ve değişmez bir yazgı değildir."
+    "tanim": "Her varlığın tekâmül ihtiyaçlarına ve liyakatine göre, en uygun deneyimleri en uygun zamanda sunmak amacıyla işleyen evrensel düzenleme sistemidir. Ödül-ceza sistemi değildir; tekâmüle hizmet eden bir fırsat sistemidir. Özgür iradenin katkılarıyla dinamik biçimde şekillenir; statik ve değişmez bir yazgı değildir.",
+    "terim_en": "Fate Mechanism",
+    "tanim_en": "The universal regulating system that operates to present the most suitable experiences at the most suitable time, according to each being's evolutionary needs and merit. It is not a reward-punishment system; it is a system of opportunity serving evolution. It is shaped dynamically through the contributions of free will; it is not a static and unchangeable destiny."
   },
   {
     "terim": "Liyakat",
-    "tanim": "Varlığın tekâmül sürecinde kazandığı idrak derinliği ve ahlaki olgunluğun ölçüsüdür. Kader mekanizması bu liyakati hesaba katarak varlığa uygun koşullar ve fırsatlar sağlar. Yüksek liyakat ödül değil; o varlığın neye hazır olduğunun göstergesidir ve daha büyük sorumlulukları da beraberinde getirir."
+    "tanim": "Varlığın tekâmül sürecinde kazandığı idrak derinliği ve ahlaki olgunluğun ölçüsüdür. Kader mekanizması bu liyakati hesaba katarak varlığa uygun koşullar ve fırsatlar sağlar. Yüksek liyakat ödül değil; o varlığın neye hazır olduğunun göstergesidir ve daha büyük sorumlulukları da beraberinde getirir.",
+    "terim_en": "Merit (Worthiness)",
+    "tanim_en": "The measure of the depth of realization and moral maturity a being has gained in the process of evolution. The fate mechanism takes this merit into account to provide the being with suitable conditions and opportunities. High merit is not a reward; it is an indicator of what that being is ready for, and it also brings greater responsibilities."
   },
   {
     "terim": "Madde Kombinezonu",
-    "tanim": "Belirli bir amaca hizmet etmek üzere bir araya gelmiş madde düzenlemesidir. Her varlık (taş, bitki, hayvan, insan) bir madde kombinezonu içinde var olur. Bu kombinezonu oluşturan ve sürdüren güç, üniteden gelen tesirlerdir. Varlık ölünce kombinezonu çözülür ve maddeler yeni kombinasyonlara katılır."
+    "tanim": "Belirli bir amaca hizmet etmek üzere bir araya gelmiş madde düzenlemesidir. Her varlık (taş, bitki, hayvan, insan) bir madde kombinezonu içinde var olur. Bu kombinezonu oluşturan ve sürdüren güç, üniteden gelen tesirlerdir. Varlık ölünce kombinezonu çözülür ve maddeler yeni kombinasyonlara katılır.",
+    "terim_en": "Matter Combination",
+    "tanim_en": "An arrangement of matter brought together to serve a particular purpose. Every being (stone, plant, animal, human) exists within a matter combination. The force that forms and sustains this combination is the influences coming from the unit. When a being dies, its combination dissolves and the matter joins new combinations."
   },
   {
     "terim": "Mâşerî",
-    "tanim": "Toplumsal, kolektif anlamına gelir. Bireysel (ferdi) olanın karşıtıdır. 'Mâşerî tekâmül' insanlığın bütününün ortak gelişim yolculuğunu; 'mâşerî plân' bu yolculuğun büyük çerçevesini; 'mâşerî vicdan' ise bir topluluğun ya da insanlığın kolektif ahlaki olgunluğunu ifade eder."
+    "tanim": "Toplumsal, kolektif anlamına gelir. Bireysel (ferdi) olanın karşıtıdır. 'Mâşerî tekâmül' insanlığın bütününün ortak gelişim yolculuğunu; 'mâşerî plân' bu yolculuğun büyük çerçevesini; 'mâşerî vicdan' ise bir topluluğun ya da insanlığın kolektif ahlaki olgunluğunu ifade eder.",
+    "terim_en": "Collective",
+    "tanim_en": "Means social, collective. It is the opposite of the individual. 'Collective evolution' expresses the shared developmental journey of the whole of humanity; 'collective plan' the great framework of this journey; and 'collective conscience' the collective moral maturity of a community or of humanity."
   },
   {
     "terim": "Medyumluk",
-    "tanim": "Belirli beyin ve öz varlık yapısına sahip kişilerin, spatyom ya da yüksek âlem varlıklarından gelen ince madde titreşimlerini alıp aktarma kapasitesidir. INK bu olguyu gerçek kabul eder; ancak gelen mesajların kaynağının her zaman güvenilir olmayabileceği konusunda dikkatli olmayı vurgular. Güvenilir rehberlik olmaksızın medyumluk pratiği önerilmez."
+    "tanim": "Belirli beyin ve öz varlık yapısına sahip kişilerin, spatyom ya da yüksek âlem varlıklarından gelen ince madde titreşimlerini alıp aktarma kapasitesidir. INK bu olguyu gerçek kabul eder; ancak gelen mesajların kaynağının her zaman güvenilir olmayabileceği konusunda dikkatli olmayı vurgular. Güvenilir rehberlik olmaksızın medyumluk pratiği önerilmez.",
+    "terim_en": "Mediumship",
+    "tanim_en": "The capacity of people with a particular brain and essential-being structure to receive and transmit the fine-matter vibrations coming from the spatyom or from beings of higher realms. INK accepts this phenomenon as real; but emphasizes caution regarding the fact that the source of incoming messages may not always be reliable. The practice of mediumship is not recommended without reliable guidance."
   },
   {
     "terim": "Nefsaniyet",
-    "tanim": "Vicdan mekanizmasının karşı kutbunda yer alan, kişisel çıkarı, konforu ve güvenliği başkalarının ihtiyaçlarının önüne koyan eğilimdir. Kötülük değil; düalite prensibinin zorunlu bir unsurudur. Nefsaniyet olmadan seçim olmaz; seçim olmadan tekâmül olmaz. Aşılması gereken değil, vicdan tarafından dengelenmesi gereken bir güçtür."
+    "tanim": "Vicdan mekanizmasının karşı kutbunda yer alan, kişisel çıkarı, konforu ve güvenliği başkalarının ihtiyaçlarının önüne koyan eğilimdir. Kötülük değil; düalite prensibinin zorunlu bir unsurudur. Nefsaniyet olmadan seçim olmaz; seçim olmadan tekâmül olmaz. Aşılması gereken değil, vicdan tarafından dengelenmesi gereken bir güçtür.",
+    "terim_en": "Egotism (Self-Interest)",
+    "tanim_en": "The tendency, located at the opposite pole of the conscience mechanism, that places personal interest, comfort, and security ahead of the needs of others. It is not evil; it is a necessary element of the principle of duality. Without egotism there is no choice; without choice there is no evolution. It is not a force to be overcome, but one to be balanced by conscience."
   },
   {
     "terim": "Obsesör",
-    "tanim": "Spatyomun alt katmanlarında sıkışmış ve başka bir varlığın madde alanına müdahale eden öz varlıktır. Şeytan ya da kötü ruh değildir; kendi durumunun çoğunlukla farkında olmayan, yardıma muhtaç bir bilinçtir. Gelişmiş vazifeliler bu varlıkları bulup yollarına devam etmeleri için yönlendirmeye çalışır."
+    "tanim": "Spatyomun alt katmanlarında sıkışmış ve başka bir varlığın madde alanına müdahale eden öz varlıktır. Şeytan ya da kötü ruh değildir; kendi durumunun çoğunlukla farkında olmayan, yardıma muhtaç bir bilinçtir. Gelişmiş vazifeliler bu varlıkları bulup yollarına devam etmeleri için yönlendirmeye çalışır.",
+    "terim_en": "Obsessor",
+    "tanim_en": "An essential being trapped in the lower layers of the spatyom that interferes with the matter-field of another being. It is not a devil or evil spirit; it is a consciousness mostly unaware of its own condition and in need of help. Advanced beings of duty try to find these beings and guide them to continue on their way."
   },
   {
     "terim": "Obsesyon",
-    "tanim": "Bir öz varlığın, başka bir varlığın madde alanına aşırı biçimde nüfuz etmesi ya da müdahale etmesidir. Etkilenen kişide açıklanamayan dürtüler, yabancı sesler ya da alışılmadık davranışlar görülebilir. Bazı psikiyatrik olgularla karıştırılabilir; ama köken ve tedavi yaklaşımı farklıdır."
+    "tanim": "Bir öz varlığın, başka bir varlığın madde alanına aşırı biçimde nüfuz etmesi ya da müdahale etmesidir. Etkilenen kişide açıklanamayan dürtüler, yabancı sesler ya da alışılmadık davranışlar görülebilir. Bazı psikiyatrik olgularla karıştırılabilir; ama köken ve tedavi yaklaşımı farklıdır.",
+    "terim_en": "Obsession",
+    "tanim_en": "An essential being excessively penetrating or interfering with the matter-field of another being. The affected person may exhibit inexplicable urges, foreign voices, or unusual behaviors. It may be confused with some psychiatric conditions; but its origin and treatment approach are different."
   },
   {
     "terim": "Organizasyon",
-    "tanim": "Belirli bir tekâmül amacına hizmet etmek üzere bir araya gelmiş varlıklar topluluğudur. Vazife plânındaki organizasyonlar, üniteden direktif alarak kâinatın farklı alanlarında koordineli biçimde çalışır. Her organizasyonun belirli bir sorumluluk alanı vardır; kimi insan tekâmülüyle, kimi doğa dengeleriyle ilgilenir."
+    "tanim": "Belirli bir tekâmül amacına hizmet etmek üzere bir araya gelmiş varlıklar topluluğudur. Vazife plânındaki organizasyonlar, üniteden direktif alarak kâinatın farklı alanlarında koordineli biçimde çalışır. Her organizasyonun belirli bir sorumluluk alanı vardır; kimi insan tekâmülüyle, kimi doğa dengeleriyle ilgilenir.",
+    "terim_en": "Organization",
+    "tanim_en": "A community of beings brought together to serve a particular evolutionary purpose. Organizations in the plane of duty work in coordination across different areas of the universe, taking directives from the unit. Each organization has a particular area of responsibility; some are concerned with human evolution, some with the balances of nature."
   },
   {
     "terim": "Öz Varlık",
-    "tanim": "Bedenin ötesinde, daha ince maddelerden oluşan ve ölümden sonra da var olmaya devam eden kişilik katmanıdır. Kişinin anıları, duyguları, değerleri ve ahlaki birikimi öz varlıkta depolanır. Ölüm anında beden terk edilir ama öz varlık kimliğini ve bilincini koruyarak spatyoma geçer. İnsanın ölüm ötesindeki gerçek kimliğidir."
+    "tanim": "Bedenin ötesinde, daha ince maddelerden oluşan ve ölümden sonra da var olmaya devam eden kişilik katmanıdır. Kişinin anıları, duyguları, değerleri ve ahlaki birikimi öz varlıkta depolanır. Ölüm anında beden terk edilir ama öz varlık kimliğini ve bilincini koruyarak spatyoma geçer. İnsanın ölüm ötesindeki gerçek kimliğidir.",
+    "terim_en": "Essential Being",
+    "tanim_en": "The layer of personality that consists of finer matter beyond the body and continues to exist after death. A person's memories, emotions, values, and moral accumulation are stored in the essential being. At the moment of death the body is left behind, but the essential being passes to the spatyom preserving its identity and consciousness. It is the human's true identity beyond death."
   },
   {
     "terim": "Özgür İrade",
-    "tanim": "İnsana özgü, bilinçli seçim yapabilme kapasitesidir. Kader plânının büyük çerçevesi içinde işler; bu çerçeveyi ortadan kaldırmaz ama içindeki her kararı belirler. INK'ta özgür irade ve kader çelişmez; birbirini tamamlar. Bugünkü özgür irade kararlarının birikimi, yarının kader çerçevesini şekillendirir."
+    "tanim": "İnsana özgü, bilinçli seçim yapabilme kapasitesidir. Kader plânının büyük çerçevesi içinde işler; bu çerçeveyi ortadan kaldırmaz ama içindeki her kararı belirler. INK'ta özgür irade ve kader çelişmez; birbirini tamamlar. Bugünkü özgür irade kararlarının birikimi, yarının kader çerçevesini şekillendirir.",
+    "terim_en": "Free Will",
+    "tanim_en": "The capacity, unique to humans, to make conscious choices. It operates within the great framework of the plan of fate; it does not abolish this framework but determines every decision within it. In INK, free will and fate do not contradict; they complement each other. The accumulation of today's free-will decisions shapes tomorrow's framework of fate."
   },
   {
     "terim": "Pasif Tekâmül",
-    "tanim": "Ruhun kendi iradesini devreye sokmadan, içinde bulunduğu madde yapısının inkişafıyla paralel olarak ilerleyen tekâmül evresidir. Taş, bitki ve hayvan bedenlerinde büyük ölçüde pasif tekâmül yaşanır. Bu süreçte bilinçli seçim, vicdan çatışması ya da özgür irade yoktur; her şey mekanik olarak akar."
+    "tanim": "Ruhun kendi iradesini devreye sokmadan, içinde bulunduğu madde yapısının inkişafıyla paralel olarak ilerleyen tekâmül evresidir. Taş, bitki ve hayvan bedenlerinde büyük ölçüde pasif tekâmül yaşanır. Bu süreçte bilinçli seçim, vicdan çatışması ya da özgür irade yoktur; her şey mekanik olarak akar.",
+    "terim_en": "Passive Evolution",
+    "tanim_en": "The phase of evolution in which the spirit progresses in parallel with the development of the matter structure it inhabits, without bringing its own will into play. Stone, plant, and animal bodies experience passive evolution to a large degree. In this process there is no conscious choice, conflict of conscience, or free will; everything flows mechanically."
   },
   {
     "terim": "Perispri",
-    "tanim": "Öz varlığın spatyomda kullandığı ince madde bedenidir. Fiziksel beden ne kadar yoğun ve kaba bir araçsa, perispri de o kadar ince ve hafif bir araçtır. Perispri aracılığıyla spatyom varlıkları çevreleriyle etkileşime girer, hareket eder ve iletişim kurar. Ölüm sonrasında fiziksel beden bırakılır, perispri ile spatyom yaşamı sürdürülür."
+    "tanim": "Öz varlığın spatyomda kullandığı ince madde bedenidir. Fiziksel beden ne kadar yoğun ve kaba bir araçsa, perispri de o kadar ince ve hafif bir araçtır. Perispri aracılığıyla spatyom varlıkları çevreleriyle etkileşime girer, hareket eder ve iletişim kurar. Ölüm sonrasında fiziksel beden bırakılır, perispri ile spatyom yaşamı sürdürülür.",
+    "terim_en": "Perispirit",
+    "tanim_en": "The fine-matter body that the essential being uses in the spatyom. Just as the physical body is a dense and coarse instrument, the perispirit is an equally fine and light instrument. Through the perispirit, spatyom beings interact with their surroundings, move, and communicate. After death the physical body is left behind, and life in the spatyom continues with the perispirit."
   },
   {
     "terim": "Reenkarnasyon",
-    "tanim": "Öz varlığın ölüm sonrasında spatyomda belirli bir süre geçirip muhasebesini tamamladıktan sonra, yeni bir beden edinerek tekrar dünyaya gelmesidir. INK bu gerçekliği, tekâmülün zorunlu bir parçası olarak açıkça kabul eder. İnsan tekâmülü tamamlanana kadar bu döngü devam eder; tamamlandığında artık dünyaya dönüş söz konusu değildir."
+    "tanim": "Öz varlığın ölüm sonrasında spatyomda belirli bir süre geçirip muhasebesini tamamladıktan sonra, yeni bir beden edinerek tekrar dünyaya gelmesidir. INK bu gerçekliği, tekâmülün zorunlu bir parçası olarak açıkça kabul eder. İnsan tekâmülü tamamlanana kadar bu döngü devam eder; tamamlandığında artık dünyaya dönüş söz konusu değildir.",
+    "terim_en": "Reincarnation",
+    "tanim_en": "The essential being's coming to the world again by acquiring a new body, after spending a certain period in the spatyom following death and completing its accounting. INK clearly accepts this reality as a necessary part of evolution. This cycle continues until human evolution is completed; once completed, return to the world is no longer in question."
   },
   {
     "terim": "Spatyom",
-    "tanim": "Ölüm sonrasında öz varlığın geçtiği, dünyadan daha ince ama yarı süptil âlemden daha kaba madde yapılarından oluşan yaşam alanıdır. Latince kökenlidir; 'uzay, mekân' anlamına gelir. Ne cennet ne cehennemdir; muhasebe, öğrenme ve yeni bedenlenme hazırlığının yapıldığı dinamik bir tekâmül sahnesidir."
+    "tanim": "Ölüm sonrasında öz varlığın geçtiği, dünyadan daha ince ama yarı süptil âlemden daha kaba madde yapılarından oluşan yaşam alanıdır. Latince kökenlidir; 'uzay, mekân' anlamına gelir. Ne cennet ne cehennemdir; muhasebe, öğrenme ve yeni bedenlenme hazırlığının yapıldığı dinamik bir tekâmül sahnesidir.",
+    "terim_en": "Spatyom",
+    "tanim_en": "The realm of life the essential being passes to after death, consisting of matter structures finer than the world but coarser than the semi-subtle realm. It is of Latin origin; it means 'space, place.' It is neither heaven nor hell; it is a dynamic evolutionary stage where accounting, learning, and preparation for new embodiment take place."
   },
   {
     "terim": "Süptil Madde",
-    "tanim": "İnce, latif madde anlamına gelir. Spatyomun ince maddesi, yarı süptil âlemin çok daha ince maddesi ve vazife plânının son derece ince maddesi; bunlar kademelenen süptillik düzeylerinin örnekleridir. Madde ince leştikçe daha büyük bir etki kapasitesi kazanır ve düşünce ile niyet ile daha doğrudan bir ilişki içine girer."
+    "tanim": "İnce, latif madde anlamına gelir. Spatyomun ince maddesi, yarı süptil âlemin çok daha ince maddesi ve vazife plânının son derece ince maddesi; bunlar kademelenen süptillik düzeylerinin örnekleridir. Madde ince leştikçe daha büyük bir etki kapasitesi kazanır ve düşünce ile niyet ile daha doğrudan bir ilişki içine girer.",
+    "terim_en": "Subtle Matter",
+    "tanim_en": "Means fine, delicate matter. The fine matter of the spatyom, the much finer matter of the semi-subtle realm, and the extremely fine matter of the plane of duty are examples of graduated levels of subtlety. As matter becomes finer, it gains a greater capacity for influence and enters into a more direct relationship with thought and intention."
   },
   {
     "terim": "Şuur",
-    "tanim": "Beyin aracılığıyla çalışan ve varlığın kâinat içindeki deneyimini mümkün kılan ince madde mekanizmasıdır. 'Ben varım, ben düşünüyorum' farkındalığının üretildiği sistemdir. Şuur ne ruhun kendisi ne de beynin kendisidir; ikisi arasındaki köprüdür. Tekâmül geliştikçe şuur genişler ve derinleşir."
+    "tanim": "Beyin aracılığıyla çalışan ve varlığın kâinat içindeki deneyimini mümkün kılan ince madde mekanizmasıdır. 'Ben varım, ben düşünüyorum' farkındalığının üretildiği sistemdir. Şuur ne ruhun kendisi ne de beynin kendisidir; ikisi arasındaki köprüdür. Tekâmül geliştikçe şuur genişler ve derinleşir.",
+    "terim_en": "Consciousness",
+    "tanim_en": "The fine-matter mechanism that works through the brain and makes possible the being's experience within the universe. It is the system in which the awareness of 'I exist, I think' is produced. Consciousness is neither the spirit itself nor the brain itself; it is the bridge between the two. As evolution develops, consciousness expands and deepens."
   },
   {
     "terim": "Şuuraltı",
-    "tanim": "Şuurun doğrudan farkında olmadığı ama davranışları ve kararları derinden etkileyen madde katmanlarıdır. Önceki hayatlardan gelen birikimler, bu hayattaki unutulan deneyimler, bastırılan duygular ve derin korkular şuuraltında saklanır. Rüyalar, anlık sezgiler ve sanatsal yaratım bu katmanın en önemli ifade kanallarıdır."
+    "tanim": "Şuurun doğrudan farkında olmadığı ama davranışları ve kararları derinden etkileyen madde katmanlarıdır. Önceki hayatlardan gelen birikimler, bu hayattaki unutulan deneyimler, bastırılan duygular ve derin korkular şuuraltında saklanır. Rüyalar, anlık sezgiler ve sanatsal yaratım bu katmanın en önemli ifade kanallarıdır.",
+    "terim_en": "Subconscious",
+    "tanim_en": "The matter layers that consciousness is not directly aware of but which deeply affect behaviors and decisions. Accumulations from previous lives, forgotten experiences from this life, suppressed emotions, and deep fears are stored in the subconscious. Dreams, sudden intuitions, and artistic creation are the most important channels of expression for this layer."
   },
   {
     "terim": "Şuurüstü",
-    "tanim": "Sıradan şuurun ötesinde, çok daha yüksek idrak ve sezgi katmanlarını kapsar. Ruhun kâinat içine en yakın temas noktasıdır. Derin meditasyon, mistik deneyimler ve büyük yaratıcı atılımlar şuurüstü kapılarının aralandığı anlardır. Tekâmül geliştikçe şuurüstü daha erişilebilir hale gelir."
+    "tanim": "Sıradan şuurun ötesinde, çok daha yüksek idrak ve sezgi katmanlarını kapsar. Ruhun kâinat içine en yakın temas noktasıdır. Derin meditasyon, mistik deneyimler ve büyük yaratıcı atılımlar şuurüstü kapılarının aralandığı anlardır. Tekâmül geliştikçe şuurüstü daha erişilebilir hale gelir.",
+    "terim_en": "Superconscious",
+    "tanim_en": "Encompasses much higher layers of realization and intuition beyond ordinary consciousness. It is the spirit's closest point of contact within the universe. Deep meditation, mystical experiences, and great creative breakthroughs are the moments when the doors of the superconscious are opened. As evolution develops, the superconscious becomes more accessible."
   },
   {
     "terim": "Tali Tesir",
-    "tanim": "Çevreden, diğer varlıklardan ve fiziksel koşullardan gelen ikincil etkilerdir. Asli tesirlerden farkı, hayatın büyük çizgisini değil; günlük ayrıntılarını şekillendirmesidir. İki varlık arasındaki manyetik alan etkileşimi, bir ortamın atmosferi ya da sosyal çevrenin baskıları tali tesir örnekleridir."
+    "tanim": "Çevreden, diğer varlıklardan ve fiziksel koşullardan gelen ikincil etkilerdir. Asli tesirlerden farkı, hayatın büyük çizgisini değil; günlük ayrıntılarını şekillendirmesidir. İki varlık arasındaki manyetik alan etkileşimi, bir ortamın atmosferi ya da sosyal çevrenin baskıları tali tesir örnekleridir.",
+    "terim_en": "Secondary Influence",
+    "tanim_en": "The guiding forces that shape the daily details and minor turning points of life. Unlike primary influences, they do not determine the fundamental line of evolution; they fine-tune it within the framework drawn by the primary influences. The events, encounters, and small choices of daily life are shaped through secondary influences."
   },
   {
     "terim": "Tekâmül",
-    "tanim": "Ruhun sonsuz yolculuğunu ifade eden temel kavramdır; gelişmek, dönüşmek, olgunlaşmak anlamına gelir. INK'ın bütün sisteminin kalbidir. Hiçbir ruh tekâmülden kaçamaz, duramaz ya da geri dönemez. Asli maddeden başlayarak insanlığa, oradan vazife plânına ve ötesine uzanan bu yolculuğun sonu yoktur."
+    "tanim": "Ruhun sonsuz yolculuğunu ifade eden temel kavramdır; gelişmek, dönüşmek, olgunlaşmak anlamına gelir. INK'ın bütün sisteminin kalbidir. Hiçbir ruh tekâmülden kaçamaz, duramaz ya da geri dönemez. Asli maddeden başlayarak insanlığa, oradan vazife plânına ve ötesine uzanan bu yolculuğun sonu yoktur.",
+    "terim_en": "Evolution (Spiritual)",
+    "tanim_en": "The journey of the spirit's progression from the simplest to the most developed, from unconsciousness toward full realization, across the universe. It is the central concept of INK. It does not occur in a single life; it spans countless lives, countless bodies, and even the passage from one universe to the next. Evolution never goes backward; it can only slow down or accelerate."
   },
   {
     "terim": "Telepati",
-    "tanim": "İki varlık arasında fiziksel kanallar olmaksızın gerçekleşen düşünce ve duygu aktarımıdır. INK bu olguyu gerçek ve maddi temelli kabul eder: Güçlü düşünce titreşimleri, ince madde kanallar aracılığıyla başka bir beyin mekanizmasına ulaşabilir. Duygusal olarak yakın kişiler arasında daha kolay gerçekleşir."
+    "tanim": "İki varlık arasında fiziksel kanallar olmaksızın gerçekleşen düşünce ve duygu aktarımıdır. INK bu olguyu gerçek ve maddi temelli kabul eder: Güçlü düşünce titreşimleri, ince madde kanallar aracılığıyla başka bir beyin mekanizmasına ulaşabilir. Duygusal olarak yakın kişiler arasında daha kolay gerçekleşir.",
+    "terim_en": "Telepathy",
+    "tanim_en": "The transfer of thought and emotion between two beings without physical channels. INK accepts this phenomenon as real and materially based: Strong thought-vibrations can reach another brain mechanism through fine-matter channels. It occurs more easily between people who are emotionally close."
   },
   {
     "terim": "Tesir",
-    "tanim": "Üniteden başlayarak tüm kâinata yayılan ve her varlığın deneyimini, gelişimini ve kaderini etkileyen yönlendirici güçlerdir. Maddi kanallar (elektromanyetik alanlar, ince madde titreşimleri) aracılığıyla iletilir. Kâinatta hiçbir varlık tesirlerin dışında değildir; en küçük atomdan en büyük galaksiye kadar her şey bu ağın içindedir."
+    "tanim": "Üniteden başlayarak tüm kâinata yayılan ve her varlığın deneyimini, gelişimini ve kaderini etkileyen yönlendirici güçlerdir. Maddi kanallar (elektromanyetik alanlar, ince madde titreşimleri) aracılığıyla iletilir. Kâinatta hiçbir varlık tesirlerin dışında değildir; en küçük atomdan en büyük galaksiye kadar her şey bu ağın içindedir.",
+    "terim_en": "Influence",
+    "tanim_en": "The guiding forces that spread from the unit throughout the entire universe and affect the experience, development, and fate of every being. They are transmitted through material channels (electromagnetic fields, fine-matter vibrations). No being in the universe is outside the influences; everything from the smallest atom to the largest galaxy is within this network."
   },
   {
     "terim": "Trans (Trance) Hali",
-    "tanim": "Şuurun olağan dış bağlantılarının büyük ölçüde zayıfladığı, derinleşmiş ve içe dönük bilinç halidir. Bu halde beyin mekanizmasının ince madde kanalları çok daha açık hale gelir; vazifelilerden ya da spatyom varlıklarından gelen tesirlerin çok daha kolay ve güçlü biçimde alınmasını mümkün kılar."
+    "tanim": "Şuurun olağan dış bağlantılarının büyük ölçüde zayıfladığı, derinleşmiş ve içe dönük bilinç halidir. Bu halde beyin mekanizmasının ince madde kanalları çok daha açık hale gelir; vazifelilerden ya da spatyom varlıklarından gelen tesirlerin çok daha kolay ve güçlü biçimde alınmasını mümkün kılar.",
+    "terim_en": "Trance State",
+    "tanim_en": "A deepened and inward-turned state of consciousness in which the ordinary external connections of consciousness are largely weakened. In this state the fine-matter channels of the brain mechanism become much more open; it makes possible the much easier and stronger reception of influences coming from beings of duty or from the spatyom."
   },
   {
     "terim": "Ünite",
-    "tanim": "Asli Prensip'in kâinat içindeki vekilidir; kâinatın en üst kademesinde yer alan idare merkezidir. Asli Prensip'ten gelen direktifleri alır, birleştirir ve tüm kâinata, tüm varlıklara dağıtır. Ünite Asli Prensip değildir; onun kâinat içindeki en üst temsilcisidir. Kâinatta olan hiçbir şey ünitenin direktifi dışında gerçekleşmez."
+    "tanim": "Asli Prensip'in kâinat içindeki vekilidir; kâinatın en üst kademesinde yer alan idare merkezidir. Asli Prensip'ten gelen direktifleri alır, birleştirir ve tüm kâinata, tüm varlıklara dağıtır. Ünite Asli Prensip değildir; onun kâinat içindeki en üst temsilcisidir. Kâinatta olan hiçbir şey ünitenin direktifi dışında gerçekleşmez.",
+    "terim_en": "The Unit",
+    "tanim_en": "The deputy of the Primordial Principle within the universe; the administrative center located at the highest level of the universe. It receives the directives coming from the Primordial Principle, integrates them, and distributes them to the whole universe, to all beings. The unit is not the Primordial Principle; it is its highest representative within the universe. Nothing that happens in the universe occurs outside the directive of the unit."
   },
   {
     "terim": "Varlık",
-    "tanim": "Ruhun kâinat içindeki temsilcisidir; ruhun kendisi değil ama ona en yakın olan madde yapısıdır. Her varlık, ruhun tekâmül ihtiyaçlarına uygun madde kombinasyonlarından oluşur. Beden geçiciyken varlık (öz varlık olarak) çok daha kalıcıdır. Tekâmülün gerçek öznesi ruh olmakla birlikte, kâinat içinde deneyimi yaşayan varlıktır."
+    "tanim": "Ruhun kâinat içindeki temsilcisidir; ruhun kendisi değil ama ona en yakın olan madde yapısıdır. Her varlık, ruhun tekâmül ihtiyaçlarına uygun madde kombinasyonlarından oluşur. Beden geçiciyken varlık (öz varlık olarak) çok daha kalıcıdır. Tekâmülün gerçek öznesi ruh olmakla birlikte, kâinat içinde deneyimi yaşayan varlıktır.",
+    "terim_en": "Being",
+    "tanim_en": "The representative of the spirit within the universe; not the spirit itself, but the matter structure closest to it. Each being consists of matter combinations suited to the evolutionary needs of the spirit. While the body is temporary, the being (as essential being) is much more permanent. Although the true subject of evolution is the spirit, it is the being that lives the experience within the universe."
   },
   {
     "terim": "Vazife Sezgisi",
-    "tanim": "Vicdan mekanizmasının iki temel gücünden biridir. 'Bu doğru olandır, bunu yapmalıyım' hissini üreten, ruhun kâinat üstü gerçekliğinin varlığa en doğrudan yansımasıdır. Nefsaniyetin karşı kutbunda yer alır. Tekâmül geliştikçe vazife sezgisinin sesi güçlenir, nefsaniyetin gürültüsü ise zayıflar."
+    "tanim": "Vicdan mekanizmasının iki temel gücünden biridir. 'Bu doğru olandır, bunu yapmalıyım' hissini üreten, ruhun kâinat üstü gerçekliğinin varlığa en doğrudan yansımasıdır. Nefsaniyetin karşı kutbunda yer alır. Tekâmül geliştikçe vazife sezgisinin sesi güçlenir, nefsaniyetin gürültüsü ise zayıflar.",
+    "terim_en": "Intuition of Duty",
+    "tanim_en": "One of the two fundamental forces of the conscience mechanism. It is the most direct reflection within the being of the spirit's supra-universal reality, producing the feeling 'this is the right thing, I must do this.' It is located at the opposite pole of egotism. As evolution develops, the voice of the intuition of duty grows stronger, while the noise of egotism weakens."
   },
   {
     "terim": "Vazifeliler",
-    "tanim": "Vazife plânı, yarı süptil âlem ve spatyomdan dünyaya yönelik tesirleri koordine eden, tekâmülü destekleyen gelişmiş varlıklardır. Kanatları olan melekler değil; insanlık tekâmülünü tamamlamış ve şimdi başkalarına hizmet eden bilinçlerdir. Rüyalar, ilhamlar ve anlık sezgiler aracılığıyla insanlara ulaşırlar."
+    "tanim": "Vazife plânı, yarı süptil âlem ve spatyomdan dünyaya yönelik tesirleri koordine eden, tekâmülü destekleyen gelişmiş varlıklardır. Kanatları olan melekler değil; insanlık tekâmülünü tamamlamış ve şimdi başkalarına hizmet eden bilinçlerdir. Rüyalar, ilhamlar ve anlık sezgiler aracılığıyla insanlara ulaşırlar.",
+    "terim_en": "The Ones on Duty",
+    "tanim_en": "Advanced beings that coordinate the influences directed toward the world from the plane of duty, the semi-subtle realm, and the spatyom, and that support evolution. They are not angels with wings; they are consciousnesses that have completed human evolution and now serve others. They reach people through dreams, inspirations, and sudden intuitions."
   },
   {
     "terim": "Vetire",
-    "tanim": "Süreç, oluş, akış anlamına gelir. INK'ın 'Kâinatta lüzumsuz hiçbir vetire mevcut değildir' ilkesinde geçer. Kâinatta gerçekleşen her olayın, her hareketin, her değişimin bir tekâmül amacına hizmet ettiğini ve hiçbirinin anlamsız olmadığını ifade eder."
+    "tanim": "Süreç, oluş, akış anlamına gelir. INK'ın 'Kâinatta lüzumsuz hiçbir vetire mevcut değildir' ilkesinde geçer. Kâinatta gerçekleşen her olayın, her hareketin, her değişimin bir tekâmül amacına hizmet ettiğini ve hiçbirinin anlamsız olmadığını ifade eder.",
+    "terim_en": "Process (Becoming)",
+    "tanim_en": "Means process, becoming, flow. It appears in INK's principle 'No unnecessary process exists in the universe.' It expresses that every event, every movement, every change that occurs in the universe serves an evolutionary purpose and that none of them is meaningless."
   },
   {
     "terim": "Vicdan Düalitesi",
-    "tanim": "Vicdan mekanizmasının iki zıt güçten oluştuğunu ifade eden kavramdır. Bir tarafta vazife sezgisi (doğru olanı yapmaya yönelten güç), diğer tarafta nefsaniyet (kişisel çıkarı öne çıkaran güç). Bu iki güç arasındaki denge, kişinin tekâmül düzeyini belirler. Hangisi baskın gelirse, yaşam o yönde şekillenir."
+    "tanim": "Vicdan mekanizmasının iki zıt güçten oluştuğunu ifade eden kavramdır. Bir tarafta vazife sezgisi (doğru olanı yapmaya yönelten güç), diğer tarafta nefsaniyet (kişisel çıkarı öne çıkaran güç). Bu iki güç arasındaki denge, kişinin tekâmül düzeyini belirler. Hangisi baskın gelirse, yaşam o yönde şekillenir.",
+    "terim_en": "Duality of Conscience",
+    "tanim_en": "The concept expressing that the conscience mechanism consists of two opposing forces. On one side the intuition of duty (the force directing one toward doing what is right), on the other side egotism (the force bringing personal interest to the fore). The balance between these two forces determines a person's level of evolution. Whichever prevails, life is shaped in that direction."
   },
   {
     "terim": "Yarı Süptil Âlem",
-    "tanim": "Spatyomun üstünde, vazife plânının altında yer alan ve insan tekâmülünü tamamlamış varlıkların geçtiği yaşam kademesidir. 'Sevgi plânı' olarak da anılır; çünkü bu âlemde egemen olan temel değer sevgidir. Fiziksel acı ve bedensel kısıtlamalar artık yoktur; nefsaniyet büyük ölçüde zayıflamış, koşulsuz sevgi ön plana çıkmıştır."
+    "tanim": "Spatyomun üstünde, vazife plânının altında yer alan ve insan tekâmülünü tamamlamış varlıkların geçtiği yaşam kademesidir. 'Sevgi plânı' olarak da anılır; çünkü bu âlemde egemen olan temel değer sevgidir. Fiziksel acı ve bedensel kısıtlamalar artık yoktur; nefsaniyet büyük ölçüde zayıflamış, koşulsuz sevgi ön plana çıkmıştır.",
+    "terim_en": "Semi-Subtle Realm",
+    "tanim_en": "The stage of life located above the spatyom and below the plane of duty, which beings that have completed human evolution pass to. It is also referred to as the 'plane of love'; because the fundamental value reigning in this realm is love. Physical pain and bodily limitations no longer exist; egotism has greatly weakened, and unconditional love has come to the fore."
   }
 ]
