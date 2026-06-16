@@ -38,7 +38,7 @@ export default function Pratik() {
                     <span className={`bolum-arrow${acik===id?' open':''}`}>▼</span>
                   </div>
                   {acik === id && (
-                    <div className="pratik-body">
+                    <div className="pratik-body open">
                       {govde && (
                         <div style={{marginBottom:16,lineHeight:1.7,fontSize:14}}>
                           {govde.split('\n\n').map((para, pi) => (
