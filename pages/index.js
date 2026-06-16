@@ -1,11 +1,12 @@
 import { useState } from 'react'
 import Link from 'next/link'
+import useLang from '../components/useLang'
 import Nav from '../components/Nav'
 import Footer from '../components/Footer'
 import InstallButton from '../components/InstallButton'
 
 export default function Home() {
-  const [lang, setLang] = useState('tr')
+  const [lang, setLang] = useLang()
   const tr = lang === 'tr'
 
   return (

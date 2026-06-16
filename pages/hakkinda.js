@@ -1,9 +1,10 @@
 import { useState } from 'react'
+import useLang from '../components/useLang'
 import Nav from '../components/Nav'
 import Footer from '../components/Footer'
 
 export default function Hakkinda() {
-  const [lang, setLang] = useState('tr')
+  const [lang, setLang] = useLang()
   const T = {
     tr:{
       title:'Bu Kitap Hakkında', sub:'Bir insanın 12 yıllık tutkusu ve bir yapay zekanın analitik katkısıyla ortaya çıktı.',

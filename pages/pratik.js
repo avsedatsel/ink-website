@@ -1,10 +1,11 @@
 import { useState } from 'react'
+import useLang from '../components/useLang'
 import Nav from '../components/Nav'
 import Footer from '../components/Footer'
 import pratikData from '../data/pratik.json'
 
 export default function Pratik() {
-  const [lang, setLang] = useState('tr')
+  const [lang, setLang] = useLang()
   const [acik, setAcik] = useState(null)
 
   const getBaslik = (p) => lang === 'en' && p.baslik_en ? p.baslik_en : p.baslik

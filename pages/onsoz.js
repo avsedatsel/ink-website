@@ -1,10 +1,11 @@
 import { useState } from 'react'
+import useLang from '../components/useLang'
 import Nav from '../components/Nav'
 import Footer from '../components/Footer'
 import sectionsData from '../data/sections_data.json'
 
 export default function Onsoz() {
-  const [lang, setLang] = useState('tr')
+  const [lang, setLang] = useLang()
 
   const paragraphs = sectionsData.preface.content_en.split('\n\n').filter(p => p.trim())
 

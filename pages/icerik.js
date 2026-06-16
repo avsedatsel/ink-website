@@ -1,10 +1,11 @@
 import { useState } from 'react'
 import Link from 'next/link'
+import useLang from '../components/useLang'
 import Nav from '../components/Nav'
 import Footer from '../components/Footer'
 
 export default function Icerik() {
-  const [lang, setLang] = useState('tr')
+  const [lang, setLang] = useLang()
   const tr = lang === 'tr'
 
   const chapters = [

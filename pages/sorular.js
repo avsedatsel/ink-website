@@ -1,10 +1,11 @@
 import { useState, useMemo } from 'react'
+import useLang from '../components/useLang'
 import Nav from '../components/Nav'
 import Footer from '../components/Footer'
 import sorularData from '../data/sorular.json'
 
 export default function Sorular() {
-  const [lang, setLang] = useState('tr')
+  const [lang, setLang] = useLang()
   const [arama, setArama] = useState('')
   const [acikBolum, setAcikBolum] = useState(null)
   const [acikSoru, setAcikSoru] = useState(null)
