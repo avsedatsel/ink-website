@@ -21,9 +21,7 @@ export default function Home() {
           {tr ? 'Ilahi Nizam ve Kainat' : 'The Divine Order and the Universe'}
         </h1>
         <p className="hero-sub">
-          {tr
-            ? 'Evrenin yapisi, ruhun yolculugu - INK sistemini herkesin anlayabilecegi bir dilde.'
-            : '1000 questions about the universe, the soul, and the meaning of existence.'}
+          {tr ? 'INK sistemini herkesin anlayabilecegi bir dilde.' : '1000 questions about the universe and the soul.'}
         </p>
         <div className="hero-btns">
           <Link href="/sorular" className="btn-gold">
@@ -38,7 +36,7 @@ export default function Home() {
           <InstallButton lang={lang} />
         </div>
         <div className="hero-stats">
-          <div><span className="stat-num">1000</span><span className="stat-lbl">{tr ? 'Soru' : 'Q&A'}</span></div>
+          <div><span className="stat-num">1000</span><span className="stat-lbl">{tr ? 'Soru' : 'Q and A'}</span></div>
           <div><span className="stat-num">20</span><span className="stat-lbl">{tr ? 'Bolum' : 'Sections'}</span></div>
           <div><span className="stat-num">57</span><span className="stat-lbl">{tr ? 'Kavram' : 'Concepts'}</span></div>
           <div><span className="stat-num">319</span><span className="stat-lbl">{tr ? 'Sayfa' : 'Pages'}</span></div>
@@ -52,9 +50,9 @@ export default function Home() {
         <div style={{display:'grid',gridTemplateColumns:'repeat(auto-fill,minmax(160px,1fr))',gap:10}}>
           {[
             {href:'/onsoz',           tr:'ONSOZ',                    en:'PREFACE'},
-            {href:'/kitap-ruhselman', tr:'KITAP VE BEDRI RUHSELMAN', en:'BOOK & BEDRI RUHSELMAN'},
-            {href:'/icerik',          tr:'BOLUMLER VE KONULAR',       en:'CHAPTERS & TOPICS'},
-            {href:'/kitap-kaynak',    tr:'KITAP VE KAYNAK',           en:'BOOK & ITS SOURCE'},
+            {href:'/kitap-ruhselman', tr:'KITAP VE BEDRI RUHSELMAN', en:'BOOK AND BEDRI RUHSELMAN'},
+            {href:'/icerik',          tr:'BOLUMLER VE KONULAR',       en:'CHAPTERS AND TOPICS'},
+            {href:'/kitap-kaynak',    tr:'KITAP VE KAYNAK',           en:'BOOK AND ITS SOURCE'},
             {href:'/pratik',          tr:'PRATIK HAYAT',              en:'PRACTICAL LIFE'},
             {href:'/sozluk',          tr:'KAVRAMLAR SOZLUGU',         en:'GLOSSARY'},
           ].map(s => (
@@ -75,26 +73,20 @@ export default function Home() {
       <div className="features">
         <Link href="/sorular" className="feat-card" style={{display:'block'}}>
           <div className="feat-icon">*</div>
-          <div className="feat-title">{tr ? '1000 Soru ve Cevap' : '1000 Questions & Answers'}</div>
-          <div className="feat-desc">
-            {tr ? 'INK sistemini kesfed.' : 'Explore the complete INK system.'}
-          </div>
+          <div className="feat-title">{tr ? '1000 Soru ve Cevap' : '1000 Questions and Answers'}</div>
+          <div className="feat-desc">{tr ? 'INK sistemini kesfed.' : 'Explore the complete INK system.'}</div>
           <span className="feat-link">20 {tr ? 'BOLUM' : 'SECTIONS'}</span>
         </Link>
         <Link href="/sozluk" className="feat-card" style={{display:'block'}}>
           <div className="feat-icon">o</div>
           <div className="feat-title">{tr ? 'Kavramlar Sozlugu' : 'Glossary of Terms'}</div>
-          <div className="feat-desc">
-            {tr ? 'INKa ozgu 57 kavram.' : '57 concepts unique to INK.'}
-          </div>
+          <div className="feat-desc">{tr ? 'INKa ozgu 57 kavram.' : '57 concepts unique to INK.'}</div>
           <span className="feat-link">57 {tr ? 'KAVRAM' : 'CONCEPTS'}</span>
         </Link>
         <Link href="/pratik" className="feat-card" style={{display:'block'}}>
           <div className="feat-icon">+</div>
           <div className="feat-title">{tr ? 'Pratik Uygulama' : 'Practical Guide'}</div>
-          <div className="feat-desc">
-            {tr ? 'Hayatin zor anlari.' : 'INK guidance for life\'s hardest moments.'}
-          </div>
+          <div className="feat-desc">{tr ? 'Hayatin zor anlari.' : 'INK guidance for hard moments.'}</div>
           <span className="feat-link">24 {tr ? 'KONU' : 'TOPICS'}</span>
         </Link>
       </div>
@@ -102,11 +94,7 @@ export default function Home() {
       <div style={{padding:'24px 32px'}}>
         <div className="banner-319">
           <span className="num">319</span>
-          <div className="lbl">
-            {tr
-              ? 'INK de bizim kitabimiz da tam 319 sayfadir. 67 yil arayla, bagimsiz olarak.'
-              : 'INK and our book are both exactly 319 pages. Written 67 years apart. Coincidence?'}
-          </div>
+          <div className="lbl">{tr ? 'INK de bizim kitabimiz da tam 319 sayfadir.' : 'Both books are exactly 319 pages. Coincidence?'}</div>
         </div>
       </div>
 
